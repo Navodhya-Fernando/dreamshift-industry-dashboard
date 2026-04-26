@@ -1,0 +1,47 @@
+# --- DEPENDENCIES ---
+node_modules/
+.pnp
+.pnp.js
+
+# --- NEXT.JS CORE ---
+/.next/
+/out/
+/build
+next-env.d.ts
+*.tsbuildinfo
+
+# --- ENVIRONMENT VARIABLES ---
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# --- LOGS & DEBUG ---
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# --- MAC/WINDOWS OS FILES ---
+.DS_Store
+Thumbs.db
+
+# --- VERCEL/NETLIFY ---
+.vercel
+.netlify
+
+# --- PYTHON & VIRTUAL ENVS ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.pytest_cache/
+
+# --- SENSITIVE CRM DATA ---
+# This ensures you never accidentally push real client/lead CSVs to GitHub.
+# (Your compiled public/data/dashboard_data.json will still be tracked for Netlify)
+raw_data/
+*.csv

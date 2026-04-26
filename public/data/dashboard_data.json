@@ -1,0 +1,1102 @@
+{
+    "overview": {
+        "totalClients": 107,
+        "totalLeads": 194,
+        "totalIndustries": 14,
+        "summaryTable": [
+            {
+                "Industry": "Accounting",
+                "Clients": 4,
+                "Leads": 20
+            },
+            {
+                "Industry": "Agriculture",
+                "Clients": 1,
+                "Leads": 2
+            },
+            {
+                "Industry": "Constructions",
+                "Clients": 20,
+                "Leads": 35
+            },
+            {
+                "Industry": "Consulting",
+                "Clients": 1,
+                "Leads": 5
+            },
+            {
+                "Industry": "HR",
+                "Clients": 4,
+                "Leads": 5
+            },
+            {
+                "Industry": "IT",
+                "Clients": 39,
+                "Leads": 64
+            },
+            {
+                "Industry": "Logistics",
+                "Clients": 3,
+                "Leads": 6
+            },
+            {
+                "Industry": "Manufacturing",
+                "Clients": 2,
+                "Leads": 21
+            },
+            {
+                "Industry": "Marketing & Sales",
+                "Clients": 5,
+                "Leads": 13
+            },
+            {
+                "Industry": "Medical",
+                "Clients": 1,
+                "Leads": 8
+            },
+            {
+                "Industry": "Operations",
+                "Clients": 1,
+                "Leads": 11
+            },
+            {
+                "Industry": "Other",
+                "Clients": 16,
+                "Leads": 0
+            },
+            {
+                "Industry": "Science & Tech",
+                "Clients": 8,
+                "Leads": 4
+            },
+            {
+                "Industry": "Telecommunication",
+                "Clients": 2,
+                "Leads": 0
+            }
+        ]
+    },
+    "industrySpecific": {
+        "Accounting": {
+            "kpis": {
+                "clients": 4,
+                "leads": 20,
+                "hqLeads": 6
+            },
+            "clientLineChart": [
+                {
+                    "month": "Feb 2026",
+                    "clients": 3
+                },
+                {
+                    "month": "Mar 2026",
+                    "clients": 1
+                }
+            ],
+            "leadQualityBar": [
+                {
+                    "quality": "Low Quality Lead",
+                    "count": 7
+                },
+                {
+                    "quality": "High Quality Lead",
+                    "count": 6
+                },
+                {
+                    "quality": "Unknown",
+                    "count": 4
+                },
+                {
+                    "quality": "Mid Quality - Unsure",
+                    "count": 3
+                }
+            ],
+            "stateBreakdown": [
+                {
+                    "state": "Victoria",
+                    "count": 8
+                },
+                {
+                    "state": "New South Wales",
+                    "count": 6
+                },
+                {
+                    "state": "Currently Outside Australia",
+                    "count": 2
+                },
+                {
+                    "state": "Western Australia",
+                    "count": 2
+                },
+                {
+                    "state": "Queensland",
+                    "count": 1
+                },
+                {
+                    "state": "Tasmania",
+                    "count": 1
+                }
+            ]
+        },
+        "Agriculture": {
+            "kpis": {
+                "clients": 1,
+                "leads": 2,
+                "hqLeads": 0
+            },
+            "clientLineChart": [
+                {
+                    "month": "Jan 2026",
+                    "clients": 1
+                }
+            ],
+            "leadQualityBar": [
+                {
+                    "quality": "Unknown",
+                    "count": 1
+                },
+                {
+                    "quality": "Low Quality Lead",
+                    "count": 1
+                }
+            ],
+            "stateBreakdown": [
+                {
+                    "state": "Victoria",
+                    "count": 1
+                },
+                {
+                    "state": "Currently Outside Australia",
+                    "count": 1
+                }
+            ]
+        },
+        "Constructions": {
+            "kpis": {
+                "clients": 20,
+                "leads": 35,
+                "hqLeads": 5
+            },
+            "clientLineChart": [
+                {
+                    "month": "Jan 2026",
+                    "clients": 7
+                },
+                {
+                    "month": "Feb 2026",
+                    "clients": 4
+                },
+                {
+                    "month": "Mar 2026",
+                    "clients": 8
+                },
+                {
+                    "month": "Apr 2026",
+                    "clients": 1
+                }
+            ],
+            "leadQualityBar": [
+                {
+                    "quality": "Unknown",
+                    "count": 16
+                },
+                {
+                    "quality": "Low Quality Lead",
+                    "count": 7
+                },
+                {
+                    "quality": "Mid Quality - Unsure",
+                    "count": 6
+                },
+                {
+                    "quality": "High Quality Lead",
+                    "count": 5
+                },
+                {
+                    "quality": "Mid Quality - Students",
+                    "count": 1
+                }
+            ],
+            "stateBreakdown": [
+                {
+                    "state": "Victoria",
+                    "count": 9
+                },
+                {
+                    "state": "New South Wales",
+                    "count": 8
+                },
+                {
+                    "state": "Queensland",
+                    "count": 6
+                },
+                {
+                    "state": "South Australia",
+                    "count": 6
+                },
+                {
+                    "state": "Western Australia",
+                    "count": 4
+                },
+                {
+                    "state": "Tasmania",
+                    "count": 1
+                },
+                {
+                    "state": "Northern Territory",
+                    "count": 1
+                }
+            ]
+        },
+        "Consulting": {
+            "kpis": {
+                "clients": 1,
+                "leads": 5,
+                "hqLeads": 0
+            },
+            "clientLineChart": [
+                {
+                    "month": "Mar 2026",
+                    "clients": 1
+                }
+            ],
+            "leadQualityBar": [
+                {
+                    "quality": "Low Quality Lead",
+                    "count": 3
+                },
+                {
+                    "quality": "Unknown",
+                    "count": 2
+                }
+            ],
+            "stateBreakdown": [
+                {
+                    "state": "New South Wales",
+                    "count": 2
+                },
+                {
+                    "state": "Victoria",
+                    "count": 2
+                },
+                {
+                    "state": "Currently Outside Australia",
+                    "count": 1
+                }
+            ]
+        },
+        "HR": {
+            "kpis": {
+                "clients": 4,
+                "leads": 5,
+                "hqLeads": 0
+            },
+            "clientLineChart": [
+                {
+                    "month": "Jan 2026",
+                    "clients": 2
+                },
+                {
+                    "month": "Feb 2026",
+                    "clients": 1
+                },
+                {
+                    "month": "Mar 2026",
+                    "clients": 1
+                }
+            ],
+            "leadQualityBar": [
+                {
+                    "quality": "Low Quality Lead",
+                    "count": 4
+                },
+                {
+                    "quality": "Mid Quality - Students",
+                    "count": 1
+                }
+            ],
+            "stateBreakdown": [
+                {
+                    "state": "Queensland",
+                    "count": 2
+                },
+                {
+                    "state": "Victoria",
+                    "count": 2
+                },
+                {
+                    "state": "South Australia",
+                    "count": 1
+                }
+            ]
+        },
+        "IT": {
+            "kpis": {
+                "clients": 39,
+                "leads": 64,
+                "hqLeads": 3
+            },
+            "clientLineChart": [
+                {
+                    "month": "Jan 2026",
+                    "clients": 11
+                },
+                {
+                    "month": "Feb 2026",
+                    "clients": 10
+                },
+                {
+                    "month": "Mar 2026",
+                    "clients": 16
+                },
+                {
+                    "month": "Apr 2026",
+                    "clients": 2
+                }
+            ],
+            "leadQualityBar": [
+                {
+                    "quality": "Mid Quality - Unsure",
+                    "count": 26
+                },
+                {
+                    "quality": "Low Quality Lead",
+                    "count": 21
+                },
+                {
+                    "quality": "Unknown",
+                    "count": 13
+                },
+                {
+                    "quality": "High Quality Lead",
+                    "count": 3
+                },
+                {
+                    "quality": "Mid Quality - Students",
+                    "count": 1
+                }
+            ],
+            "stateBreakdown": [
+                {
+                    "state": "Victoria",
+                    "count": 19
+                },
+                {
+                    "state": "New South Wales",
+                    "count": 15
+                },
+                {
+                    "state": "Western Australia",
+                    "count": 7
+                },
+                {
+                    "state": "Queensland",
+                    "count": 7
+                },
+                {
+                    "state": "Currently Outside Australia",
+                    "count": 6
+                },
+                {
+                    "state": "ACT",
+                    "count": 4
+                },
+                {
+                    "state": "Northern Territory",
+                    "count": 3
+                },
+                {
+                    "state": "South Australia",
+                    "count": 2
+                },
+                {
+                    "state": "Tasmania",
+                    "count": 1
+                }
+            ]
+        },
+        "Logistics": {
+            "kpis": {
+                "clients": 3,
+                "leads": 6,
+                "hqLeads": 2
+            },
+            "clientLineChart": [
+                {
+                    "month": "Jan 2026",
+                    "clients": 1
+                },
+                {
+                    "month": "Feb 2026",
+                    "clients": 2
+                }
+            ],
+            "leadQualityBar": [
+                {
+                    "quality": "Unknown",
+                    "count": 2
+                },
+                {
+                    "quality": "High Quality Lead",
+                    "count": 2
+                },
+                {
+                    "quality": "Mid Quality - Unsure",
+                    "count": 1
+                },
+                {
+                    "quality": "Low Quality Lead",
+                    "count": 1
+                }
+            ],
+            "stateBreakdown": [
+                {
+                    "state": "Victoria",
+                    "count": 2
+                },
+                {
+                    "state": "New South Wales",
+                    "count": 2
+                },
+                {
+                    "state": "Western Australia",
+                    "count": 1
+                },
+                {
+                    "state": "Currently Outside Australia",
+                    "count": 1
+                }
+            ]
+        },
+        "Manufacturing": {
+            "kpis": {
+                "clients": 2,
+                "leads": 21,
+                "hqLeads": 3
+            },
+            "clientLineChart": [
+                {
+                    "month": "Jan 2026",
+                    "clients": 1
+                },
+                {
+                    "month": "Feb 2026",
+                    "clients": 1
+                }
+            ],
+            "leadQualityBar": [
+                {
+                    "quality": "Unknown",
+                    "count": 10
+                },
+                {
+                    "quality": "Low Quality Lead",
+                    "count": 4
+                },
+                {
+                    "quality": "Mid Quality - Unsure",
+                    "count": 4
+                },
+                {
+                    "quality": "High Quality Lead",
+                    "count": 3
+                }
+            ],
+            "stateBreakdown": [
+                {
+                    "state": "Victoria",
+                    "count": 9
+                },
+                {
+                    "state": "Western Australia",
+                    "count": 5
+                },
+                {
+                    "state": "New South Wales",
+                    "count": 3
+                },
+                {
+                    "state": "South Australia",
+                    "count": 2
+                },
+                {
+                    "state": "Queensland",
+                    "count": 1
+                },
+                {
+                    "state": "Currently Outside Australia",
+                    "count": 1
+                }
+            ]
+        },
+        "Marketing & Sales": {
+            "kpis": {
+                "clients": 5,
+                "leads": 13,
+                "hqLeads": 0
+            },
+            "clientLineChart": [
+                {
+                    "month": "Jan 2026",
+                    "clients": 3
+                },
+                {
+                    "month": "Feb 2026",
+                    "clients": 0
+                },
+                {
+                    "month": "Mar 2026",
+                    "clients": 2
+                }
+            ],
+            "leadQualityBar": [
+                {
+                    "quality": "Low Quality Lead",
+                    "count": 5
+                },
+                {
+                    "quality": "Unknown",
+                    "count": 4
+                },
+                {
+                    "quality": "Mid Quality - Unsure",
+                    "count": 3
+                },
+                {
+                    "quality": "Mid Quality - Not Urgent",
+                    "count": 1
+                }
+            ],
+            "stateBreakdown": [
+                {
+                    "state": "Victoria",
+                    "count": 5
+                },
+                {
+                    "state": "New South Wales",
+                    "count": 5
+                },
+                {
+                    "state": "Currently Outside Australia",
+                    "count": 1
+                },
+                {
+                    "state": "Queensland",
+                    "count": 1
+                },
+                {
+                    "state": "ACT",
+                    "count": 1
+                }
+            ]
+        },
+        "Medical": {
+            "kpis": {
+                "clients": 1,
+                "leads": 8,
+                "hqLeads": 1
+            },
+            "clientLineChart": [
+                {
+                    "month": "Mar 2026",
+                    "clients": 1
+                }
+            ],
+            "leadQualityBar": [
+                {
+                    "quality": "Low Quality Lead",
+                    "count": 3
+                },
+                {
+                    "quality": "Mid Quality - Unsure",
+                    "count": 3
+                },
+                {
+                    "quality": "Unknown",
+                    "count": 1
+                },
+                {
+                    "quality": "High Quality Lead",
+                    "count": 1
+                }
+            ],
+            "stateBreakdown": [
+                {
+                    "state": "Currently Outside Australia",
+                    "count": 3
+                },
+                {
+                    "state": "Western Australia",
+                    "count": 2
+                },
+                {
+                    "state": "New South Wales",
+                    "count": 2
+                },
+                {
+                    "state": "Victoria",
+                    "count": 1
+                }
+            ]
+        },
+        "Operations": {
+            "kpis": {
+                "clients": 1,
+                "leads": 11,
+                "hqLeads": 0
+            },
+            "clientLineChart": [
+                {
+                    "month": "Jan 2026",
+                    "clients": 1
+                }
+            ],
+            "leadQualityBar": [
+                {
+                    "quality": "Low Quality Lead",
+                    "count": 5
+                },
+                {
+                    "quality": "Mid Quality - Unsure",
+                    "count": 4
+                },
+                {
+                    "quality": "Unknown",
+                    "count": 1
+                },
+                {
+                    "quality": "Mid Quality - Students",
+                    "count": 1
+                }
+            ],
+            "stateBreakdown": [
+                {
+                    "state": "Victoria",
+                    "count": 4
+                },
+                {
+                    "state": "ACT",
+                    "count": 2
+                },
+                {
+                    "state": "Currently Outside Australia",
+                    "count": 2
+                },
+                {
+                    "state": "New South Wales",
+                    "count": 1
+                },
+                {
+                    "state": "Queensland",
+                    "count": 1
+                },
+                {
+                    "state": "South Australia",
+                    "count": 1
+                }
+            ]
+        },
+        "Other": {
+            "kpis": {
+                "clients": 16,
+                "leads": 0,
+                "hqLeads": 0
+            },
+            "clientLineChart": [
+                {
+                    "month": "Jan 2026",
+                    "clients": 6
+                },
+                {
+                    "month": "Feb 2026",
+                    "clients": 7
+                },
+                {
+                    "month": "Mar 2026",
+                    "clients": 3
+                }
+            ],
+            "leadQualityBar": [],
+            "stateBreakdown": []
+        },
+        "Science & Tech": {
+            "kpis": {
+                "clients": 8,
+                "leads": 4,
+                "hqLeads": 1
+            },
+            "clientLineChart": [
+                {
+                    "month": "Jan 2026",
+                    "clients": 1
+                },
+                {
+                    "month": "Feb 2026",
+                    "clients": 5
+                },
+                {
+                    "month": "Mar 2026",
+                    "clients": 2
+                }
+            ],
+            "leadQualityBar": [
+                {
+                    "quality": "Low Quality Lead",
+                    "count": 2
+                },
+                {
+                    "quality": "High Quality Lead",
+                    "count": 1
+                },
+                {
+                    "quality": "Mid Quality - Unsure",
+                    "count": 1
+                }
+            ],
+            "stateBreakdown": [
+                {
+                    "state": "South Australia",
+                    "count": 1
+                },
+                {
+                    "state": "Western Australia",
+                    "count": 1
+                },
+                {
+                    "state": "Queensland",
+                    "count": 1
+                },
+                {
+                    "state": "Currently Outside Australia",
+                    "count": 1
+                }
+            ]
+        },
+        "Telecommunication": {
+            "kpis": {
+                "clients": 2,
+                "leads": 0,
+                "hqLeads": 0
+            },
+            "clientLineChart": [
+                {
+                    "month": "Jan 2026",
+                    "clients": 1
+                },
+                {
+                    "month": "Feb 2026",
+                    "clients": 1
+                }
+            ],
+            "leadQualityBar": [],
+            "stateBreakdown": []
+        }
+    },
+    "conversionTable": [
+        {
+            "Industry": "Accounting",
+            "ConvertedClients": 3,
+            "TotalLeads": 20,
+            "ConversionRate": 15.0,
+            "TotalHQLeads": 6,
+            "PctHQLeads": 30.0,
+            "PctHQConverted": 50.0
+        },
+        {
+            "Industry": "Agriculture",
+            "ConvertedClients": 0,
+            "TotalLeads": 2,
+            "ConversionRate": 0.0,
+            "TotalHQLeads": 0,
+            "PctHQLeads": 0.0,
+            "PctHQConverted": 0
+        },
+        {
+            "Industry": "Constructions",
+            "ConvertedClients": 5,
+            "TotalLeads": 35,
+            "ConversionRate": 14.29,
+            "TotalHQLeads": 5,
+            "PctHQLeads": 14.29,
+            "PctHQConverted": 40.0
+        },
+        {
+            "Industry": "Consulting",
+            "ConvertedClients": 0,
+            "TotalLeads": 5,
+            "ConversionRate": 0.0,
+            "TotalHQLeads": 0,
+            "PctHQLeads": 0.0,
+            "PctHQConverted": 0
+        },
+        {
+            "Industry": "HR",
+            "ConvertedClients": 0,
+            "TotalLeads": 5,
+            "ConversionRate": 0.0,
+            "TotalHQLeads": 0,
+            "PctHQLeads": 0.0,
+            "PctHQConverted": 0
+        },
+        {
+            "Industry": "IT",
+            "ConvertedClients": 8,
+            "TotalLeads": 64,
+            "ConversionRate": 12.5,
+            "TotalHQLeads": 3,
+            "PctHQLeads": 4.69,
+            "PctHQConverted": 66.67
+        },
+        {
+            "Industry": "Logistics",
+            "ConvertedClients": 1,
+            "TotalLeads": 6,
+            "ConversionRate": 16.67,
+            "TotalHQLeads": 2,
+            "PctHQLeads": 33.33,
+            "PctHQConverted": 50.0
+        },
+        {
+            "Industry": "Manufacturing",
+            "ConvertedClients": 0,
+            "TotalLeads": 21,
+            "ConversionRate": 0.0,
+            "TotalHQLeads": 3,
+            "PctHQLeads": 14.29,
+            "PctHQConverted": 0.0
+        },
+        {
+            "Industry": "Marketing & Sales",
+            "ConvertedClients": 1,
+            "TotalLeads": 13,
+            "ConversionRate": 7.69,
+            "TotalHQLeads": 0,
+            "PctHQLeads": 0.0,
+            "PctHQConverted": 0
+        },
+        {
+            "Industry": "Medical",
+            "ConvertedClients": 0,
+            "TotalLeads": 8,
+            "ConversionRate": 0.0,
+            "TotalHQLeads": 1,
+            "PctHQLeads": 12.5,
+            "PctHQConverted": 0.0
+        },
+        {
+            "Industry": "Operations",
+            "ConvertedClients": 0,
+            "TotalLeads": 11,
+            "ConversionRate": 0.0,
+            "TotalHQLeads": 0,
+            "PctHQLeads": 0.0,
+            "PctHQConverted": 0
+        },
+        {
+            "Industry": "Science & Tech",
+            "ConvertedClients": 0,
+            "TotalLeads": 4,
+            "ConversionRate": 0.0,
+            "TotalHQLeads": 1,
+            "PctHQLeads": 25.0,
+            "PctHQConverted": 0.0
+        }
+    ],
+    "predictive": {
+        "industryProbabilities": [
+            {
+                "industry": "Accounting",
+                "probability": 35.53
+            },
+            {
+                "industry": "Agriculture",
+                "probability": 16.11
+            },
+            {
+                "industry": "Constructions",
+                "probability": 45.49
+            },
+            {
+                "industry": "Consulting",
+                "probability": 18.029999999999998
+            },
+            {
+                "industry": "HR",
+                "probability": 6.08
+            },
+            {
+                "industry": "IT",
+                "probability": 37.580000000000005
+            },
+            {
+                "industry": "Logistics",
+                "probability": 45.550000000000004
+            },
+            {
+                "industry": "Manufacturing",
+                "probability": 12.09
+            },
+            {
+                "industry": "Marketing & Sales",
+                "probability": 24.21
+            },
+            {
+                "industry": "Medical",
+                "probability": 12.97
+            },
+            {
+                "industry": "Operations",
+                "probability": 6.069999999999999
+            },
+            {
+                "industry": "Science & Tech",
+                "probability": 21.36
+            }
+        ],
+        "topPersonas": [
+            {
+                "persona": "Persona 3",
+                "topIndustry": "IT",
+                "topState": "New South Wales",
+                "topVisa": "Permanent Resident (PR)",
+                "conversionRate": 16.67
+            },
+            {
+                "persona": "Persona 2",
+                "topIndustry": "Constructions",
+                "topState": "Victoria",
+                "topVisa": "Temporary Graduate Visa (485)",
+                "conversionRate": 13.24
+            },
+            {
+                "persona": "Persona 1",
+                "topIndustry": "IT",
+                "topState": "Victoria",
+                "topVisa": "Temporary Graduate Visa (485)",
+                "conversionRate": 6.12
+            }
+        ],
+        "forecast": [
+            {
+                "date": "2026-04-02",
+                "predictedClients": 1.39
+            },
+            {
+                "date": "2026-04-03",
+                "predictedClients": 1.4
+            },
+            {
+                "date": "2026-04-04",
+                "predictedClients": 1.4
+            },
+            {
+                "date": "2026-04-05",
+                "predictedClients": 1.4
+            },
+            {
+                "date": "2026-04-06",
+                "predictedClients": 1.41
+            },
+            {
+                "date": "2026-04-07",
+                "predictedClients": 1.41
+            },
+            {
+                "date": "2026-04-08",
+                "predictedClients": 1.42
+            },
+            {
+                "date": "2026-04-09",
+                "predictedClients": 1.42
+            },
+            {
+                "date": "2026-04-10",
+                "predictedClients": 1.43
+            },
+            {
+                "date": "2026-04-11",
+                "predictedClients": 1.43
+            },
+            {
+                "date": "2026-04-12",
+                "predictedClients": 1.44
+            },
+            {
+                "date": "2026-04-13",
+                "predictedClients": 1.44
+            },
+            {
+                "date": "2026-04-14",
+                "predictedClients": 1.45
+            },
+            {
+                "date": "2026-04-15",
+                "predictedClients": 1.45
+            },
+            {
+                "date": "2026-04-16",
+                "predictedClients": 1.46
+            },
+            {
+                "date": "2026-04-17",
+                "predictedClients": 1.46
+            },
+            {
+                "date": "2026-04-18",
+                "predictedClients": 1.47
+            },
+            {
+                "date": "2026-04-19",
+                "predictedClients": 1.47
+            },
+            {
+                "date": "2026-04-20",
+                "predictedClients": 1.47
+            },
+            {
+                "date": "2026-04-21",
+                "predictedClients": 1.48
+            },
+            {
+                "date": "2026-04-22",
+                "predictedClients": 1.48
+            },
+            {
+                "date": "2026-04-23",
+                "predictedClients": 1.49
+            },
+            {
+                "date": "2026-04-24",
+                "predictedClients": 1.49
+            },
+            {
+                "date": "2026-04-25",
+                "predictedClients": 1.5
+            },
+            {
+                "date": "2026-04-26",
+                "predictedClients": 1.5
+            },
+            {
+                "date": "2026-04-27",
+                "predictedClients": 1.51
+            },
+            {
+                "date": "2026-04-28",
+                "predictedClients": 1.51
+            },
+            {
+                "date": "2026-04-29",
+                "predictedClients": 1.52
+            },
+            {
+                "date": "2026-04-30",
+                "predictedClients": 1.52
+            },
+            {
+                "date": "2026-05-01",
+                "predictedClients": 1.53
+            }
+        ]
+    }
+}
