@@ -3,9 +3,9 @@
 import React, { useState } from 'react';
 import IndustryKPIs from './IndustryKPIs';
 import ClientLineChart from './ClientLineChart';
+import WeeklyConversionChart from './WeeklyConversionChart';
 import dynamic from 'next/dynamic';
 const GeospatialMap = dynamic(() => import('./GeospatialMap'), { ssr: false });
-import LeadQualityBar from './LeadQualityBar';
 import ConversionTable from './ConversionTable';
 import { ChevronDown } from 'lucide-react';
 
@@ -21,14 +21,14 @@ function getIndustryKeys(value: unknown): string[] {
   return keys.sort();
 }
 
-export default function IndustrySection({ 
-  specificData = {}, 
+export default function IndustrySection({
+  specificData = {},
   conversionData = [],
-  overviewData = {} 
-}: { 
-  specificData: any, 
+  overviewData = {}
+}: {
+  specificData: any,
   conversionData: any[],
-  overviewData: any 
+  overviewData: any
 }) {
   const safeSpecificData = React.useMemo(
     () => (specificData && typeof specificData === 'object' ? specificData : {}),
@@ -60,24 +60,29 @@ export default function IndustrySection({
 
   const activeIndustry = selectedIndustry || industries[0];
   const currentData = safeSpecificData[activeIndustry] || {};
-  const currentConversion = (conversionData || []).find(c => c.Industry === activeIndustry) || null;
+  const currentConversion = (conversionData || []).find((c) => c.Industry === activeIndustry) || null;
+  const historicalClientData = (currentData.clientLineChart && currentData.clientLineChart.length > 0)
+    ? currentData.clientLineChart
+    : ((currentData.weeklyConversion || []).map((row: any) => ({
+        month: row.week,
+        clients: row.clients,
+      })));
 
   return (
     <div className="space-y-6">
-      {/* Sleek Header & Dropdown */}
       <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center bg-slate-900 p-4 rounded-2xl border border-slate-800 shadow-sm">
         <div>
           <h3 className="text-base font-semibold text-slate-100">Industry Performance</h3>
           <p className="text-sm text-slate-400">Select a sector to view isolated metrics</p>
         </div>
-        
+
         <div className="relative mt-4 sm:mt-0 w-full sm:w-64">
-          <select 
+          <select
             value={activeIndustry}
             onChange={(e) => setSelectedIndustry(e.target.value)}
             className="w-full appearance-none bg-slate-900/50 border border-slate-800 text-slate-100 text-sm font-medium rounded-xl px-4 py-2.5 pr-10 focus:outline-none focus:ring-2 focus:ring-blue-500/20 focus:border-blue-500 transition-all cursor-pointer"
           >
-            {industries.map(ind => (
+            {industries.map((ind) => (
               <option key={ind} value={ind}>{ind}</option>
             ))}
           </select>
@@ -85,11 +90,10 @@ export default function IndustrySection({
         </div>
       </div>
 
-      {/* Top Split: 60/40 */}
       <div className="grid grid-cols-1 lg:grid-cols-5 gap-6">
         <div className="lg:col-span-3 space-y-6 flex flex-col">
-          <IndustryKPIs 
-            kpis={currentData.kpis || { clients: 0, leads: 0, hqLeads: 0 }} 
+          <IndustryKPIs
+            kpis={currentData.kpis || { clients: 0, leads: 0, hqLeads: 0 }}
             totals={{
               clients: overviewData?.totalClients ?? 0,
               leads: overviewData?.totalLeads ?? 0
@@ -97,7 +101,7 @@ export default function IndustrySection({
           />
           <div className="bg-slate-900 p-6 rounded-2xl border border-slate-800 shadow-sm flex-1">
             <h4 className="text-sm font-semibold text-slate-100 mb-6">Historical Client Growth</h4>
-            <ClientLineChart data={currentData.clientLineChart || []} />
+            <ClientLineChart data={historicalClientData} />
           </div>
         </div>
 
@@ -114,13 +118,17 @@ export default function IndustrySection({
         </div>
       </div>
 
-      {/* Bottom Split: 50/50 */}
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
         <div className="bg-slate-900 p-6 rounded-2xl border border-slate-800 shadow-sm h-[350px] flex flex-col">
-          <h4 className="text-sm font-semibold text-slate-100 mb-6">Lead Quality Distribution</h4>
-          <LeadQualityBar data={currentData.leadQualityBar || []} />
+          <h4 className="text-sm font-semibold text-slate-100 mb-6">Weekly Conversion Chart</h4>
+          <WeeklyConversionChart
+            data={currentData.weeklyConversion || []}
+            title=""
+            description=""
+            emptyText="No weekly trend available"
+          />
         </div>
-        
+
         <div className="bg-slate-900 rounded-2xl border border-slate-800 shadow-sm overflow-hidden h-[350px] flex flex-col">
           <div className="p-6 border-b border-slate-800">
             <h4 className="text-sm font-semibold text-slate-100">Conversion Ledger (Post-March 10)</h4>

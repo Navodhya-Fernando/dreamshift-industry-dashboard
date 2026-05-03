@@ -15,9 +15,19 @@ export default function ConversionTable({ data }: { data: any }) {
     { label: "Total Leads", value: data.TotalLeads, type: "number" },
     { label: "High Quality (HQ) Leads", value: data.TotalHQLeads, type: "number" },
     { label: "% of Leads that are HQ", value: `${data.PctHQLeads}%`, type: "percent" },
-    { label: "Clients Acquired (Post-March 10)", value: data.ClientsPostMarch10, type: "number", highlight: true },
+    {
+      label: "Clients Acquired (Post-March 10)",
+      value: data.ClientsPostMarch10 ?? data.Clients ?? 0,
+      type: "number",
+      highlight: true,
+    },
     { label: "Overall Conversion Rate", value: `${data.ConversionRate}%`, type: "percent" },
-    { label: "HQ Lead Conversion Rate", value: `${data.PctHQConverted}%`, type: "percent", highlight: true },
+    {
+      label: "HQ Lead Conversion Rate",
+      value: `${data.PctHQConverted ?? data.HQConvRate ?? 0}%`,
+      type: "percent",
+      highlight: true,
+    },
   ];
 
   return (

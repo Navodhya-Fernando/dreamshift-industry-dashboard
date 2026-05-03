@@ -1,0 +1,2245 @@
+{
+    "last_updated": "2026-05-04 05:04:07",
+    "totalClients": 130,
+    "totalLeads": 238,
+    "totalIndustries": 17,
+    "overview": {
+        "totalClients": 130,
+        "totalLeads": 238,
+        "totalIndustries": 17,
+        "summaryTable": [
+            {
+                "Industry": "IT",
+                "Leads": 95,
+                "Clients": 46
+            },
+            {
+                "Industry": "Constructions",
+                "Leads": 63,
+                "Clients": 23
+            },
+            {
+                "Industry": "Marketing & Sales",
+                "Leads": 25,
+                "Clients": 6
+            },
+            {
+                "Industry": "Accounting",
+                "Leads": 16,
+                "Clients": 8
+            },
+            {
+                "Industry": "HR",
+                "Leads": 8,
+                "Clients": 4
+            },
+            {
+                "Industry": "Medical",
+                "Leads": 7,
+                "Clients": 3
+            },
+            {
+                "Industry": "Operations",
+                "Leads": 5,
+                "Clients": 1
+            },
+            {
+                "Industry": "Other",
+                "Leads": 4,
+                "Clients": 16
+            },
+            {
+                "Industry": "Logistics",
+                "Leads": 4,
+                "Clients": 5
+            },
+            {
+                "Industry": "Consulting",
+                "Leads": 3,
+                "Clients": 1
+            },
+            {
+                "Industry": "F & B",
+                "Leads": 3,
+                "Clients": 0
+            },
+            {
+                "Industry": "Agriculture",
+                "Leads": 3,
+                "Clients": 1
+            },
+            {
+                "Industry": "Science & Tech",
+                "Leads": 2,
+                "Clients": 9
+            },
+            {
+                "Industry": "Administration",
+                "Leads": 0,
+                "Clients": 2
+            },
+            {
+                "Industry": "Manufacturing",
+                "Leads": 0,
+                "Clients": 2
+            },
+            {
+                "Industry": "Project Management",
+                "Leads": 0,
+                "Clients": 1
+            },
+            {
+                "Industry": "Telecommunication",
+                "Leads": 0,
+                "Clients": 2
+            }
+        ],
+        "qualityHeatmap": [
+            {
+                "Industry": "Accounting",
+                "Unknown": 1,
+                "\u23f3 Mid Quality - Not Urgent": 0,
+                "\u2744\ufe0f Low Quality Lead": 7,
+                "\ud83c\udf93 Mid Quality - Students": 0,
+                "\ud83d\udd25 High Quality Lead": 5,
+                "\ud83e\udd14 Mid Quality - Unsure": 3
+            },
+            {
+                "Industry": "Agriculture",
+                "Unknown": 0,
+                "\u23f3 Mid Quality - Not Urgent": 0,
+                "\u2744\ufe0f Low Quality Lead": 2,
+                "\ud83c\udf93 Mid Quality - Students": 0,
+                "\ud83d\udd25 High Quality Lead": 1,
+                "\ud83e\udd14 Mid Quality - Unsure": 0
+            },
+            {
+                "Industry": "Constructions",
+                "Unknown": 0,
+                "\u23f3 Mid Quality - Not Urgent": 0,
+                "\u2744\ufe0f Low Quality Lead": 13,
+                "\ud83c\udf93 Mid Quality - Students": 3,
+                "\ud83d\udd25 High Quality Lead": 36,
+                "\ud83e\udd14 Mid Quality - Unsure": 11
+            },
+            {
+                "Industry": "Consulting",
+                "Unknown": 0,
+                "\u23f3 Mid Quality - Not Urgent": 0,
+                "\u2744\ufe0f Low Quality Lead": 1,
+                "\ud83c\udf93 Mid Quality - Students": 0,
+                "\ud83d\udd25 High Quality Lead": 1,
+                "\ud83e\udd14 Mid Quality - Unsure": 1
+            },
+            {
+                "Industry": "F & B",
+                "Unknown": 0,
+                "\u23f3 Mid Quality - Not Urgent": 0,
+                "\u2744\ufe0f Low Quality Lead": 3,
+                "\ud83c\udf93 Mid Quality - Students": 0,
+                "\ud83d\udd25 High Quality Lead": 0,
+                "\ud83e\udd14 Mid Quality - Unsure": 0
+            },
+            {
+                "Industry": "HR",
+                "Unknown": 0,
+                "\u23f3 Mid Quality - Not Urgent": 0,
+                "\u2744\ufe0f Low Quality Lead": 5,
+                "\ud83c\udf93 Mid Quality - Students": 1,
+                "\ud83d\udd25 High Quality Lead": 1,
+                "\ud83e\udd14 Mid Quality - Unsure": 1
+            },
+            {
+                "Industry": "IT",
+                "Unknown": 1,
+                "\u23f3 Mid Quality - Not Urgent": 1,
+                "\u2744\ufe0f Low Quality Lead": 37,
+                "\ud83c\udf93 Mid Quality - Students": 3,
+                "\ud83d\udd25 High Quality Lead": 23,
+                "\ud83e\udd14 Mid Quality - Unsure": 30
+            },
+            {
+                "Industry": "Logistics",
+                "Unknown": 0,
+                "\u23f3 Mid Quality - Not Urgent": 0,
+                "\u2744\ufe0f Low Quality Lead": 0,
+                "\ud83c\udf93 Mid Quality - Students": 0,
+                "\ud83d\udd25 High Quality Lead": 1,
+                "\ud83e\udd14 Mid Quality - Unsure": 3
+            },
+            {
+                "Industry": "Marketing & Sales",
+                "Unknown": 0,
+                "\u23f3 Mid Quality - Not Urgent": 1,
+                "\u2744\ufe0f Low Quality Lead": 10,
+                "\ud83c\udf93 Mid Quality - Students": 1,
+                "\ud83d\udd25 High Quality Lead": 8,
+                "\ud83e\udd14 Mid Quality - Unsure": 5
+            },
+            {
+                "Industry": "Medical",
+                "Unknown": 0,
+                "\u23f3 Mid Quality - Not Urgent": 0,
+                "\u2744\ufe0f Low Quality Lead": 4,
+                "\ud83c\udf93 Mid Quality - Students": 1,
+                "\ud83d\udd25 High Quality Lead": 0,
+                "\ud83e\udd14 Mid Quality - Unsure": 2
+            },
+            {
+                "Industry": "Operations",
+                "Unknown": 0,
+                "\u23f3 Mid Quality - Not Urgent": 0,
+                "\u2744\ufe0f Low Quality Lead": 1,
+                "\ud83c\udf93 Mid Quality - Students": 0,
+                "\ud83d\udd25 High Quality Lead": 3,
+                "\ud83e\udd14 Mid Quality - Unsure": 1
+            },
+            {
+                "Industry": "Other",
+                "Unknown": 0,
+                "\u23f3 Mid Quality - Not Urgent": 0,
+                "\u2744\ufe0f Low Quality Lead": 2,
+                "\ud83c\udf93 Mid Quality - Students": 1,
+                "\ud83d\udd25 High Quality Lead": 0,
+                "\ud83e\udd14 Mid Quality - Unsure": 1
+            },
+            {
+                "Industry": "Science & Tech",
+                "Unknown": 0,
+                "\u23f3 Mid Quality - Not Urgent": 0,
+                "\u2744\ufe0f Low Quality Lead": 0,
+                "\ud83c\udf93 Mid Quality - Students": 0,
+                "\ud83d\udd25 High Quality Lead": 1,
+                "\ud83e\udd14 Mid Quality - Unsure": 1
+            }
+        ]
+    },
+    "summaryTable": [
+        {
+            "Industry": "IT",
+            "Leads": 95,
+            "Clients": 46
+        },
+        {
+            "Industry": "Constructions",
+            "Leads": 63,
+            "Clients": 23
+        },
+        {
+            "Industry": "Marketing & Sales",
+            "Leads": 25,
+            "Clients": 6
+        },
+        {
+            "Industry": "Accounting",
+            "Leads": 16,
+            "Clients": 8
+        },
+        {
+            "Industry": "HR",
+            "Leads": 8,
+            "Clients": 4
+        },
+        {
+            "Industry": "Medical",
+            "Leads": 7,
+            "Clients": 3
+        },
+        {
+            "Industry": "Operations",
+            "Leads": 5,
+            "Clients": 1
+        },
+        {
+            "Industry": "Other",
+            "Leads": 4,
+            "Clients": 16
+        },
+        {
+            "Industry": "Logistics",
+            "Leads": 4,
+            "Clients": 5
+        },
+        {
+            "Industry": "Consulting",
+            "Leads": 3,
+            "Clients": 1
+        },
+        {
+            "Industry": "F & B",
+            "Leads": 3,
+            "Clients": 0
+        },
+        {
+            "Industry": "Agriculture",
+            "Leads": 3,
+            "Clients": 1
+        },
+        {
+            "Industry": "Science & Tech",
+            "Leads": 2,
+            "Clients": 9
+        },
+        {
+            "Industry": "Administration",
+            "Leads": 0,
+            "Clients": 2
+        },
+        {
+            "Industry": "Manufacturing",
+            "Leads": 0,
+            "Clients": 2
+        },
+        {
+            "Industry": "Project Management",
+            "Leads": 0,
+            "Clients": 1
+        },
+        {
+            "Industry": "Telecommunication",
+            "Leads": 0,
+            "Clients": 2
+        }
+    ],
+    "qualityHeatmap": [
+        {
+            "Industry": "Accounting",
+            "Unknown": 1,
+            "\u23f3 Mid Quality - Not Urgent": 0,
+            "\u2744\ufe0f Low Quality Lead": 7,
+            "\ud83c\udf93 Mid Quality - Students": 0,
+            "\ud83d\udd25 High Quality Lead": 5,
+            "\ud83e\udd14 Mid Quality - Unsure": 3
+        },
+        {
+            "Industry": "Agriculture",
+            "Unknown": 0,
+            "\u23f3 Mid Quality - Not Urgent": 0,
+            "\u2744\ufe0f Low Quality Lead": 2,
+            "\ud83c\udf93 Mid Quality - Students": 0,
+            "\ud83d\udd25 High Quality Lead": 1,
+            "\ud83e\udd14 Mid Quality - Unsure": 0
+        },
+        {
+            "Industry": "Constructions",
+            "Unknown": 0,
+            "\u23f3 Mid Quality - Not Urgent": 0,
+            "\u2744\ufe0f Low Quality Lead": 13,
+            "\ud83c\udf93 Mid Quality - Students": 3,
+            "\ud83d\udd25 High Quality Lead": 36,
+            "\ud83e\udd14 Mid Quality - Unsure": 11
+        },
+        {
+            "Industry": "Consulting",
+            "Unknown": 0,
+            "\u23f3 Mid Quality - Not Urgent": 0,
+            "\u2744\ufe0f Low Quality Lead": 1,
+            "\ud83c\udf93 Mid Quality - Students": 0,
+            "\ud83d\udd25 High Quality Lead": 1,
+            "\ud83e\udd14 Mid Quality - Unsure": 1
+        },
+        {
+            "Industry": "F & B",
+            "Unknown": 0,
+            "\u23f3 Mid Quality - Not Urgent": 0,
+            "\u2744\ufe0f Low Quality Lead": 3,
+            "\ud83c\udf93 Mid Quality - Students": 0,
+            "\ud83d\udd25 High Quality Lead": 0,
+            "\ud83e\udd14 Mid Quality - Unsure": 0
+        },
+        {
+            "Industry": "HR",
+            "Unknown": 0,
+            "\u23f3 Mid Quality - Not Urgent": 0,
+            "\u2744\ufe0f Low Quality Lead": 5,
+            "\ud83c\udf93 Mid Quality - Students": 1,
+            "\ud83d\udd25 High Quality Lead": 1,
+            "\ud83e\udd14 Mid Quality - Unsure": 1
+        },
+        {
+            "Industry": "IT",
+            "Unknown": 1,
+            "\u23f3 Mid Quality - Not Urgent": 1,
+            "\u2744\ufe0f Low Quality Lead": 37,
+            "\ud83c\udf93 Mid Quality - Students": 3,
+            "\ud83d\udd25 High Quality Lead": 23,
+            "\ud83e\udd14 Mid Quality - Unsure": 30
+        },
+        {
+            "Industry": "Logistics",
+            "Unknown": 0,
+            "\u23f3 Mid Quality - Not Urgent": 0,
+            "\u2744\ufe0f Low Quality Lead": 0,
+            "\ud83c\udf93 Mid Quality - Students": 0,
+            "\ud83d\udd25 High Quality Lead": 1,
+            "\ud83e\udd14 Mid Quality - Unsure": 3
+        },
+        {
+            "Industry": "Marketing & Sales",
+            "Unknown": 0,
+            "\u23f3 Mid Quality - Not Urgent": 1,
+            "\u2744\ufe0f Low Quality Lead": 10,
+            "\ud83c\udf93 Mid Quality - Students": 1,
+            "\ud83d\udd25 High Quality Lead": 8,
+            "\ud83e\udd14 Mid Quality - Unsure": 5
+        },
+        {
+            "Industry": "Medical",
+            "Unknown": 0,
+            "\u23f3 Mid Quality - Not Urgent": 0,
+            "\u2744\ufe0f Low Quality Lead": 4,
+            "\ud83c\udf93 Mid Quality - Students": 1,
+            "\ud83d\udd25 High Quality Lead": 0,
+            "\ud83e\udd14 Mid Quality - Unsure": 2
+        },
+        {
+            "Industry": "Operations",
+            "Unknown": 0,
+            "\u23f3 Mid Quality - Not Urgent": 0,
+            "\u2744\ufe0f Low Quality Lead": 1,
+            "\ud83c\udf93 Mid Quality - Students": 0,
+            "\ud83d\udd25 High Quality Lead": 3,
+            "\ud83e\udd14 Mid Quality - Unsure": 1
+        },
+        {
+            "Industry": "Other",
+            "Unknown": 0,
+            "\u23f3 Mid Quality - Not Urgent": 0,
+            "\u2744\ufe0f Low Quality Lead": 2,
+            "\ud83c\udf93 Mid Quality - Students": 1,
+            "\ud83d\udd25 High Quality Lead": 0,
+            "\ud83e\udd14 Mid Quality - Unsure": 1
+        },
+        {
+            "Industry": "Science & Tech",
+            "Unknown": 0,
+            "\u23f3 Mid Quality - Not Urgent": 0,
+            "\u2744\ufe0f Low Quality Lead": 0,
+            "\ud83c\udf93 Mid Quality - Students": 0,
+            "\ud83d\udd25 High Quality Lead": 1,
+            "\ud83e\udd14 Mid Quality - Unsure": 1
+        }
+    ],
+    "geospatial": [
+        {
+            "state": "ACT",
+            "count": 8
+        },
+        {
+            "state": "Currently Outside Australia",
+            "count": 22
+        },
+        {
+            "state": "New South Wales",
+            "count": 54
+        },
+        {
+            "state": "Northern Territory",
+            "count": 4
+        },
+        {
+            "state": "Queensland",
+            "count": 21
+        },
+        {
+            "state": "South Australia",
+            "count": 19
+        },
+        {
+            "state": "Tasmania",
+            "count": 4
+        },
+        {
+            "state": "Victoria",
+            "count": 79
+        },
+        {
+            "state": "Western Australia",
+            "count": 27
+        }
+    ],
+    "weeklyConversion": [
+        {
+            "week": "Mar 16",
+            "conversion_rate": 2.9,
+            "total_leads": 34,
+            "clients": 1
+        },
+        {
+            "week": "Mar 23",
+            "conversion_rate": 16.0,
+            "total_leads": 25,
+            "clients": 4
+        },
+        {
+            "week": "Mar 30",
+            "conversion_rate": 31.9,
+            "total_leads": 47,
+            "clients": 15
+        },
+        {
+            "week": "Apr 06",
+            "conversion_rate": 11.8,
+            "total_leads": 34,
+            "clients": 4
+        },
+        {
+            "week": "Apr 13",
+            "conversion_rate": 7.1,
+            "total_leads": 28,
+            "clients": 2
+        },
+        {
+            "week": "Apr 20",
+            "conversion_rate": 25.0,
+            "total_leads": 24,
+            "clients": 6
+        },
+        {
+            "week": "Apr 27",
+            "conversion_rate": 26.7,
+            "total_leads": 30,
+            "clients": 8
+        },
+        {
+            "week": "May 04",
+            "conversion_rate": 0.0,
+            "total_leads": 16,
+            "clients": 0
+        }
+    ],
+    "industryWeeklyConversion": [
+        {
+            "Industry": "Accounting",
+            "week": "Mar 23",
+            "conversion_rate": 25.0,
+            "total_leads": 4,
+            "clients": 1
+        },
+        {
+            "Industry": "Accounting",
+            "week": "Mar 30",
+            "conversion_rate": 50.0,
+            "total_leads": 4,
+            "clients": 2
+        },
+        {
+            "Industry": "Accounting",
+            "week": "Apr 06",
+            "conversion_rate": 0.0,
+            "total_leads": 1,
+            "clients": 0
+        },
+        {
+            "Industry": "Accounting",
+            "week": "Apr 13",
+            "conversion_rate": 16.7,
+            "total_leads": 6,
+            "clients": 1
+        },
+        {
+            "Industry": "Accounting",
+            "week": "Apr 27",
+            "conversion_rate": 100.0,
+            "total_leads": 1,
+            "clients": 1
+        },
+        {
+            "Industry": "Agriculture",
+            "week": "Mar 16",
+            "conversion_rate": 0.0,
+            "total_leads": 1,
+            "clients": 0
+        },
+        {
+            "Industry": "Agriculture",
+            "week": "Apr 27",
+            "conversion_rate": 0.0,
+            "total_leads": 1,
+            "clients": 0
+        },
+        {
+            "Industry": "Agriculture",
+            "week": "May 04",
+            "conversion_rate": 0.0,
+            "total_leads": 1,
+            "clients": 0
+        },
+        {
+            "Industry": "Constructions",
+            "week": "Mar 16",
+            "conversion_rate": 0.0,
+            "total_leads": 8,
+            "clients": 0
+        },
+        {
+            "Industry": "Constructions",
+            "week": "Mar 23",
+            "conversion_rate": 25.0,
+            "total_leads": 4,
+            "clients": 1
+        },
+        {
+            "Industry": "Constructions",
+            "week": "Mar 30",
+            "conversion_rate": 46.2,
+            "total_leads": 13,
+            "clients": 6
+        },
+        {
+            "Industry": "Constructions",
+            "week": "Apr 06",
+            "conversion_rate": 0.0,
+            "total_leads": 11,
+            "clients": 0
+        },
+        {
+            "Industry": "Constructions",
+            "week": "Apr 13",
+            "conversion_rate": 16.7,
+            "total_leads": 6,
+            "clients": 1
+        },
+        {
+            "Industry": "Constructions",
+            "week": "Apr 20",
+            "conversion_rate": 16.7,
+            "total_leads": 6,
+            "clients": 1
+        },
+        {
+            "Industry": "Constructions",
+            "week": "Apr 27",
+            "conversion_rate": 33.3,
+            "total_leads": 9,
+            "clients": 3
+        },
+        {
+            "Industry": "Constructions",
+            "week": "May 04",
+            "conversion_rate": 0.0,
+            "total_leads": 6,
+            "clients": 0
+        },
+        {
+            "Industry": "Consulting",
+            "week": "Mar 23",
+            "conversion_rate": 0.0,
+            "total_leads": 1,
+            "clients": 0
+        },
+        {
+            "Industry": "Consulting",
+            "week": "Apr 06",
+            "conversion_rate": 0.0,
+            "total_leads": 1,
+            "clients": 0
+        },
+        {
+            "Industry": "Consulting",
+            "week": "Apr 13",
+            "conversion_rate": 0.0,
+            "total_leads": 1,
+            "clients": 0
+        },
+        {
+            "Industry": "F & B",
+            "week": "Apr 13",
+            "conversion_rate": 0.0,
+            "total_leads": 1,
+            "clients": 0
+        },
+        {
+            "Industry": "F & B",
+            "week": "Apr 20",
+            "conversion_rate": 0.0,
+            "total_leads": 1,
+            "clients": 0
+        },
+        {
+            "Industry": "F & B",
+            "week": "Apr 27",
+            "conversion_rate": 0.0,
+            "total_leads": 1,
+            "clients": 0
+        },
+        {
+            "Industry": "HR",
+            "week": "Mar 16",
+            "conversion_rate": 0.0,
+            "total_leads": 2,
+            "clients": 0
+        },
+        {
+            "Industry": "HR",
+            "week": "Mar 23",
+            "conversion_rate": 0.0,
+            "total_leads": 1,
+            "clients": 0
+        },
+        {
+            "Industry": "HR",
+            "week": "Mar 30",
+            "conversion_rate": 0.0,
+            "total_leads": 1,
+            "clients": 0
+        },
+        {
+            "Industry": "HR",
+            "week": "Apr 06",
+            "conversion_rate": 0.0,
+            "total_leads": 1,
+            "clients": 0
+        },
+        {
+            "Industry": "HR",
+            "week": "Apr 13",
+            "conversion_rate": 0.0,
+            "total_leads": 1,
+            "clients": 0
+        },
+        {
+            "Industry": "HR",
+            "week": "Apr 20",
+            "conversion_rate": 0.0,
+            "total_leads": 1,
+            "clients": 0
+        },
+        {
+            "Industry": "HR",
+            "week": "May 04",
+            "conversion_rate": 0.0,
+            "total_leads": 1,
+            "clients": 0
+        },
+        {
+            "Industry": "IT",
+            "week": "Mar 16",
+            "conversion_rate": 0.0,
+            "total_leads": 13,
+            "clients": 0
+        },
+        {
+            "Industry": "IT",
+            "week": "Mar 23",
+            "conversion_rate": 20.0,
+            "total_leads": 10,
+            "clients": 2
+        },
+        {
+            "Industry": "IT",
+            "week": "Mar 30",
+            "conversion_rate": 33.3,
+            "total_leads": 18,
+            "clients": 6
+        },
+        {
+            "Industry": "IT",
+            "week": "Apr 06",
+            "conversion_rate": 23.1,
+            "total_leads": 13,
+            "clients": 3
+        },
+        {
+            "Industry": "IT",
+            "week": "Apr 13",
+            "conversion_rate": 0.0,
+            "total_leads": 12,
+            "clients": 0
+        },
+        {
+            "Industry": "IT",
+            "week": "Apr 20",
+            "conversion_rate": 30.0,
+            "total_leads": 10,
+            "clients": 3
+        },
+        {
+            "Industry": "IT",
+            "week": "Apr 27",
+            "conversion_rate": 8.3,
+            "total_leads": 12,
+            "clients": 1
+        },
+        {
+            "Industry": "IT",
+            "week": "May 04",
+            "conversion_rate": 0.0,
+            "total_leads": 7,
+            "clients": 0
+        },
+        {
+            "Industry": "Logistics",
+            "week": "Mar 23",
+            "conversion_rate": 0.0,
+            "total_leads": 1,
+            "clients": 0
+        },
+        {
+            "Industry": "Logistics",
+            "week": "Apr 20",
+            "conversion_rate": 0.0,
+            "total_leads": 1,
+            "clients": 0
+        },
+        {
+            "Industry": "Logistics",
+            "week": "Apr 27",
+            "conversion_rate": 50.0,
+            "total_leads": 2,
+            "clients": 1
+        },
+        {
+            "Industry": "Marketing & Sales",
+            "week": "Mar 16",
+            "conversion_rate": 20.0,
+            "total_leads": 5,
+            "clients": 1
+        },
+        {
+            "Industry": "Marketing & Sales",
+            "week": "Mar 23",
+            "conversion_rate": 0.0,
+            "total_leads": 3,
+            "clients": 0
+        },
+        {
+            "Industry": "Marketing & Sales",
+            "week": "Mar 30",
+            "conversion_rate": 12.5,
+            "total_leads": 8,
+            "clients": 1
+        },
+        {
+            "Industry": "Marketing & Sales",
+            "week": "Apr 06",
+            "conversion_rate": 25.0,
+            "total_leads": 4,
+            "clients": 1
+        },
+        {
+            "Industry": "Marketing & Sales",
+            "week": "Apr 20",
+            "conversion_rate": 50.0,
+            "total_leads": 2,
+            "clients": 1
+        },
+        {
+            "Industry": "Marketing & Sales",
+            "week": "Apr 27",
+            "conversion_rate": 66.7,
+            "total_leads": 3,
+            "clients": 2
+        },
+        {
+            "Industry": "Medical",
+            "week": "Mar 16",
+            "conversion_rate": 0.0,
+            "total_leads": 2,
+            "clients": 0
+        },
+        {
+            "Industry": "Medical",
+            "week": "Apr 06",
+            "conversion_rate": 0.0,
+            "total_leads": 3,
+            "clients": 0
+        },
+        {
+            "Industry": "Medical",
+            "week": "Apr 13",
+            "conversion_rate": 0.0,
+            "total_leads": 1,
+            "clients": 0
+        },
+        {
+            "Industry": "Medical",
+            "week": "Apr 27",
+            "conversion_rate": 0.0,
+            "total_leads": 1,
+            "clients": 0
+        },
+        {
+            "Industry": "Operations",
+            "week": "Mar 16",
+            "conversion_rate": 0.0,
+            "total_leads": 1,
+            "clients": 0
+        },
+        {
+            "Industry": "Operations",
+            "week": "Mar 23",
+            "conversion_rate": 0.0,
+            "total_leads": 1,
+            "clients": 0
+        },
+        {
+            "Industry": "Operations",
+            "week": "Mar 30",
+            "conversion_rate": 0.0,
+            "total_leads": 1,
+            "clients": 0
+        },
+        {
+            "Industry": "Operations",
+            "week": "Apr 20",
+            "conversion_rate": 50.0,
+            "total_leads": 2,
+            "clients": 1
+        },
+        {
+            "Industry": "Other",
+            "week": "Mar 16",
+            "conversion_rate": 0.0,
+            "total_leads": 2,
+            "clients": 0
+        },
+        {
+            "Industry": "Other",
+            "week": "Apr 20",
+            "conversion_rate": 0.0,
+            "total_leads": 1,
+            "clients": 0
+        },
+        {
+            "Industry": "Other",
+            "week": "May 04",
+            "conversion_rate": 0.0,
+            "total_leads": 1,
+            "clients": 0
+        },
+        {
+            "Industry": "Science & Tech",
+            "week": "Mar 30",
+            "conversion_rate": 0.0,
+            "total_leads": 2,
+            "clients": 0
+        }
+    ],
+    "conversionTable": [
+        {
+            "Industry": "IT",
+            "Clients": 15,
+            "TotalLeads": 95,
+            "ConversionRate": 15.79,
+            "TotalHQLeads": 23,
+            "PctHQLeads": 24.21,
+            "HQConvRate": 39.13,
+            "TotalMQLeads": 34,
+            "PctMQLeads": 35.79,
+            "MQConvRate": 14.71
+        },
+        {
+            "Industry": "Constructions",
+            "Clients": 12,
+            "TotalLeads": 63,
+            "ConversionRate": 19.05,
+            "TotalHQLeads": 36,
+            "PctHQLeads": 57.14,
+            "HQConvRate": 33.33,
+            "TotalMQLeads": 14,
+            "PctMQLeads": 22.22,
+            "MQConvRate": 0.0
+        },
+        {
+            "Industry": "Marketing & Sales",
+            "Clients": 6,
+            "TotalLeads": 25,
+            "ConversionRate": 24.0,
+            "TotalHQLeads": 8,
+            "PctHQLeads": 32.0,
+            "HQConvRate": 25.0,
+            "TotalMQLeads": 7,
+            "PctMQLeads": 28.0,
+            "MQConvRate": 42.86
+        },
+        {
+            "Industry": "Accounting",
+            "Clients": 5,
+            "TotalLeads": 16,
+            "ConversionRate": 31.25,
+            "TotalHQLeads": 5,
+            "PctHQLeads": 31.25,
+            "HQConvRate": 80.0,
+            "TotalMQLeads": 3,
+            "PctMQLeads": 18.75,
+            "MQConvRate": 33.33
+        },
+        {
+            "Industry": "HR",
+            "Clients": 0,
+            "TotalLeads": 8,
+            "ConversionRate": 0.0,
+            "TotalHQLeads": 1,
+            "PctHQLeads": 12.5,
+            "HQConvRate": 0.0,
+            "TotalMQLeads": 2,
+            "PctMQLeads": 25.0,
+            "MQConvRate": 0.0
+        },
+        {
+            "Industry": "Medical",
+            "Clients": 0,
+            "TotalLeads": 7,
+            "ConversionRate": 0.0,
+            "TotalHQLeads": 0,
+            "PctHQLeads": 0.0,
+            "HQConvRate": 0,
+            "TotalMQLeads": 3,
+            "PctMQLeads": 42.86,
+            "MQConvRate": 0.0
+        },
+        {
+            "Industry": "Operations",
+            "Clients": 1,
+            "TotalLeads": 5,
+            "ConversionRate": 20.0,
+            "TotalHQLeads": 3,
+            "PctHQLeads": 60.0,
+            "HQConvRate": 33.33,
+            "TotalMQLeads": 1,
+            "PctMQLeads": 20.0,
+            "MQConvRate": 0.0
+        },
+        {
+            "Industry": "Logistics",
+            "Clients": 1,
+            "TotalLeads": 4,
+            "ConversionRate": 25.0,
+            "TotalHQLeads": 1,
+            "PctHQLeads": 25.0,
+            "HQConvRate": 100.0,
+            "TotalMQLeads": 3,
+            "PctMQLeads": 75.0,
+            "MQConvRate": 0.0
+        },
+        {
+            "Industry": "Other",
+            "Clients": 0,
+            "TotalLeads": 4,
+            "ConversionRate": 0.0,
+            "TotalHQLeads": 0,
+            "PctHQLeads": 0.0,
+            "HQConvRate": 0,
+            "TotalMQLeads": 2,
+            "PctMQLeads": 50.0,
+            "MQConvRate": 0.0
+        },
+        {
+            "Industry": "Agriculture",
+            "Clients": 0,
+            "TotalLeads": 3,
+            "ConversionRate": 0.0,
+            "TotalHQLeads": 1,
+            "PctHQLeads": 33.33,
+            "HQConvRate": 0.0,
+            "TotalMQLeads": 0,
+            "PctMQLeads": 0.0,
+            "MQConvRate": 0
+        },
+        {
+            "Industry": "Consulting",
+            "Clients": 0,
+            "TotalLeads": 3,
+            "ConversionRate": 0.0,
+            "TotalHQLeads": 1,
+            "PctHQLeads": 33.33,
+            "HQConvRate": 0.0,
+            "TotalMQLeads": 1,
+            "PctMQLeads": 33.33,
+            "MQConvRate": 0.0
+        },
+        {
+            "Industry": "F & B",
+            "Clients": 0,
+            "TotalLeads": 3,
+            "ConversionRate": 0.0,
+            "TotalHQLeads": 0,
+            "PctHQLeads": 0.0,
+            "HQConvRate": 0,
+            "TotalMQLeads": 0,
+            "PctMQLeads": 0.0,
+            "MQConvRate": 0
+        },
+        {
+            "Industry": "Science & Tech",
+            "Clients": 0,
+            "TotalLeads": 2,
+            "ConversionRate": 0.0,
+            "TotalHQLeads": 1,
+            "PctHQLeads": 50.0,
+            "HQConvRate": 0.0,
+            "TotalMQLeads": 1,
+            "PctMQLeads": 50.0,
+            "MQConvRate": 0.0
+        }
+    ],
+    "industrySpecific": {
+        "Accounting": {
+            "kpis": {
+                "clients": 8,
+                "leads": 16,
+                "hqLeads": 5
+            },
+            "leadQualityBar": [
+                {
+                    "quality": "Low Quality Lead",
+                    "count": 7
+                },
+                {
+                    "quality": "High Quality Lead",
+                    "count": 5
+                },
+                {
+                    "quality": "Unknown",
+                    "count": 1
+                },
+                {
+                    "quality": "Mid Quality Lead",
+                    "count": 3
+                }
+            ],
+            "stateBreakdown": [
+                {
+                    "state": "Currently Outside Australia",
+                    "count": 2
+                },
+                {
+                    "state": "New South Wales",
+                    "count": 5
+                },
+                {
+                    "state": "Queensland",
+                    "count": 1
+                },
+                {
+                    "state": "South Australia",
+                    "count": 1
+                },
+                {
+                    "state": "Tasmania",
+                    "count": 1
+                },
+                {
+                    "state": "Victoria",
+                    "count": 4
+                },
+                {
+                    "state": "Western Australia",
+                    "count": 2
+                }
+            ],
+            "weeklyConversion": [
+                {
+                    "week": "Mar 23",
+                    "conversion_rate": 25.0,
+                    "total_leads": 4,
+                    "clients": 1
+                },
+                {
+                    "week": "Mar 30",
+                    "conversion_rate": 50.0,
+                    "total_leads": 4,
+                    "clients": 2
+                },
+                {
+                    "week": "Apr 06",
+                    "conversion_rate": 0.0,
+                    "total_leads": 1,
+                    "clients": 0
+                },
+                {
+                    "week": "Apr 13",
+                    "conversion_rate": 16.7,
+                    "total_leads": 6,
+                    "clients": 1
+                },
+                {
+                    "week": "Apr 27",
+                    "conversion_rate": 100.0,
+                    "total_leads": 1,
+                    "clients": 1
+                }
+            ]
+        },
+        "Administration": {
+            "kpis": {
+                "clients": 2,
+                "leads": 0,
+                "hqLeads": 0
+            },
+            "leadQualityBar": [
+                {
+                    "quality": "Low Quality Lead",
+                    "count": 0
+                },
+                {
+                    "quality": "High Quality Lead",
+                    "count": 0
+                },
+                {
+                    "quality": "Unknown",
+                    "count": 0
+                },
+                {
+                    "quality": "Mid Quality Lead",
+                    "count": 0
+                }
+            ],
+            "stateBreakdown": [],
+            "weeklyConversion": []
+        },
+        "Agriculture": {
+            "kpis": {
+                "clients": 1,
+                "leads": 3,
+                "hqLeads": 1
+            },
+            "leadQualityBar": [
+                {
+                    "quality": "Low Quality Lead",
+                    "count": 2
+                },
+                {
+                    "quality": "High Quality Lead",
+                    "count": 1
+                },
+                {
+                    "quality": "Unknown",
+                    "count": 0
+                },
+                {
+                    "quality": "Mid Quality Lead",
+                    "count": 0
+                }
+            ],
+            "stateBreakdown": [
+                {
+                    "state": "Currently Outside Australia",
+                    "count": 1
+                },
+                {
+                    "state": "Tasmania",
+                    "count": 1
+                },
+                {
+                    "state": "Victoria",
+                    "count": 1
+                }
+            ],
+            "weeklyConversion": [
+                {
+                    "week": "Mar 16",
+                    "conversion_rate": 0.0,
+                    "total_leads": 1,
+                    "clients": 0
+                },
+                {
+                    "week": "Apr 27",
+                    "conversion_rate": 0.0,
+                    "total_leads": 1,
+                    "clients": 0
+                },
+                {
+                    "week": "May 04",
+                    "conversion_rate": 0.0,
+                    "total_leads": 1,
+                    "clients": 0
+                }
+            ]
+        },
+        "Constructions": {
+            "kpis": {
+                "clients": 23,
+                "leads": 63,
+                "hqLeads": 36
+            },
+            "leadQualityBar": [
+                {
+                    "quality": "Low Quality Lead",
+                    "count": 13
+                },
+                {
+                    "quality": "High Quality Lead",
+                    "count": 36
+                },
+                {
+                    "quality": "Unknown",
+                    "count": 0
+                },
+                {
+                    "quality": "Mid Quality Lead",
+                    "count": 14
+                }
+            ],
+            "stateBreakdown": [
+                {
+                    "state": "Currently Outside Australia",
+                    "count": 1
+                },
+                {
+                    "state": "New South Wales",
+                    "count": 15
+                },
+                {
+                    "state": "Northern Territory",
+                    "count": 1
+                },
+                {
+                    "state": "Queensland",
+                    "count": 8
+                },
+                {
+                    "state": "South Australia",
+                    "count": 7
+                },
+                {
+                    "state": "Tasmania",
+                    "count": 1
+                },
+                {
+                    "state": "Victoria",
+                    "count": 22
+                },
+                {
+                    "state": "Western Australia",
+                    "count": 8
+                }
+            ],
+            "weeklyConversion": [
+                {
+                    "week": "Mar 16",
+                    "conversion_rate": 0.0,
+                    "total_leads": 8,
+                    "clients": 0
+                },
+                {
+                    "week": "Mar 23",
+                    "conversion_rate": 25.0,
+                    "total_leads": 4,
+                    "clients": 1
+                },
+                {
+                    "week": "Mar 30",
+                    "conversion_rate": 46.2,
+                    "total_leads": 13,
+                    "clients": 6
+                },
+                {
+                    "week": "Apr 06",
+                    "conversion_rate": 0.0,
+                    "total_leads": 11,
+                    "clients": 0
+                },
+                {
+                    "week": "Apr 13",
+                    "conversion_rate": 16.7,
+                    "total_leads": 6,
+                    "clients": 1
+                },
+                {
+                    "week": "Apr 20",
+                    "conversion_rate": 16.7,
+                    "total_leads": 6,
+                    "clients": 1
+                },
+                {
+                    "week": "Apr 27",
+                    "conversion_rate": 33.3,
+                    "total_leads": 9,
+                    "clients": 3
+                },
+                {
+                    "week": "May 04",
+                    "conversion_rate": 0.0,
+                    "total_leads": 6,
+                    "clients": 0
+                }
+            ]
+        },
+        "Consulting": {
+            "kpis": {
+                "clients": 1,
+                "leads": 3,
+                "hqLeads": 1
+            },
+            "leadQualityBar": [
+                {
+                    "quality": "Low Quality Lead",
+                    "count": 1
+                },
+                {
+                    "quality": "High Quality Lead",
+                    "count": 1
+                },
+                {
+                    "quality": "Unknown",
+                    "count": 0
+                },
+                {
+                    "quality": "Mid Quality Lead",
+                    "count": 1
+                }
+            ],
+            "stateBreakdown": [
+                {
+                    "state": "Currently Outside Australia",
+                    "count": 1
+                },
+                {
+                    "state": "South Australia",
+                    "count": 1
+                },
+                {
+                    "state": "Victoria",
+                    "count": 1
+                }
+            ],
+            "weeklyConversion": [
+                {
+                    "week": "Mar 23",
+                    "conversion_rate": 0.0,
+                    "total_leads": 1,
+                    "clients": 0
+                },
+                {
+                    "week": "Apr 06",
+                    "conversion_rate": 0.0,
+                    "total_leads": 1,
+                    "clients": 0
+                },
+                {
+                    "week": "Apr 13",
+                    "conversion_rate": 0.0,
+                    "total_leads": 1,
+                    "clients": 0
+                }
+            ]
+        },
+        "F & B": {
+            "kpis": {
+                "clients": 0,
+                "leads": 3,
+                "hqLeads": 0
+            },
+            "leadQualityBar": [
+                {
+                    "quality": "Low Quality Lead",
+                    "count": 3
+                },
+                {
+                    "quality": "High Quality Lead",
+                    "count": 0
+                },
+                {
+                    "quality": "Unknown",
+                    "count": 0
+                },
+                {
+                    "quality": "Mid Quality Lead",
+                    "count": 0
+                }
+            ],
+            "stateBreakdown": [
+                {
+                    "state": "Currently Outside Australia",
+                    "count": 3
+                }
+            ],
+            "weeklyConversion": [
+                {
+                    "week": "Apr 13",
+                    "conversion_rate": 0.0,
+                    "total_leads": 1,
+                    "clients": 0
+                },
+                {
+                    "week": "Apr 20",
+                    "conversion_rate": 0.0,
+                    "total_leads": 1,
+                    "clients": 0
+                },
+                {
+                    "week": "Apr 27",
+                    "conversion_rate": 0.0,
+                    "total_leads": 1,
+                    "clients": 0
+                }
+            ]
+        },
+        "HR": {
+            "kpis": {
+                "clients": 4,
+                "leads": 8,
+                "hqLeads": 1
+            },
+            "leadQualityBar": [
+                {
+                    "quality": "Low Quality Lead",
+                    "count": 5
+                },
+                {
+                    "quality": "High Quality Lead",
+                    "count": 1
+                },
+                {
+                    "quality": "Unknown",
+                    "count": 0
+                },
+                {
+                    "quality": "Mid Quality Lead",
+                    "count": 2
+                }
+            ],
+            "stateBreakdown": [
+                {
+                    "state": "Queensland",
+                    "count": 2
+                },
+                {
+                    "state": "South Australia",
+                    "count": 1
+                },
+                {
+                    "state": "Victoria",
+                    "count": 4
+                },
+                {
+                    "state": "Western Australia",
+                    "count": 1
+                }
+            ],
+            "weeklyConversion": [
+                {
+                    "week": "Mar 16",
+                    "conversion_rate": 0.0,
+                    "total_leads": 2,
+                    "clients": 0
+                },
+                {
+                    "week": "Mar 23",
+                    "conversion_rate": 0.0,
+                    "total_leads": 1,
+                    "clients": 0
+                },
+                {
+                    "week": "Mar 30",
+                    "conversion_rate": 0.0,
+                    "total_leads": 1,
+                    "clients": 0
+                },
+                {
+                    "week": "Apr 06",
+                    "conversion_rate": 0.0,
+                    "total_leads": 1,
+                    "clients": 0
+                },
+                {
+                    "week": "Apr 13",
+                    "conversion_rate": 0.0,
+                    "total_leads": 1,
+                    "clients": 0
+                },
+                {
+                    "week": "Apr 20",
+                    "conversion_rate": 0.0,
+                    "total_leads": 1,
+                    "clients": 0
+                },
+                {
+                    "week": "May 04",
+                    "conversion_rate": 0.0,
+                    "total_leads": 1,
+                    "clients": 0
+                }
+            ]
+        },
+        "IT": {
+            "kpis": {
+                "clients": 46,
+                "leads": 95,
+                "hqLeads": 23
+            },
+            "leadQualityBar": [
+                {
+                    "quality": "Low Quality Lead",
+                    "count": 37
+                },
+                {
+                    "quality": "High Quality Lead",
+                    "count": 23
+                },
+                {
+                    "quality": "Unknown",
+                    "count": 1
+                },
+                {
+                    "quality": "Mid Quality Lead",
+                    "count": 34
+                }
+            ],
+            "stateBreakdown": [
+                {
+                    "state": "ACT",
+                    "count": 5
+                },
+                {
+                    "state": "Currently Outside Australia",
+                    "count": 9
+                },
+                {
+                    "state": "New South Wales",
+                    "count": 19
+                },
+                {
+                    "state": "Northern Territory",
+                    "count": 3
+                },
+                {
+                    "state": "Queensland",
+                    "count": 8
+                },
+                {
+                    "state": "South Australia",
+                    "count": 7
+                },
+                {
+                    "state": "Tasmania",
+                    "count": 1
+                },
+                {
+                    "state": "Victoria",
+                    "count": 33
+                },
+                {
+                    "state": "Western Australia",
+                    "count": 10
+                }
+            ],
+            "weeklyConversion": [
+                {
+                    "week": "Mar 16",
+                    "conversion_rate": 0.0,
+                    "total_leads": 13,
+                    "clients": 0
+                },
+                {
+                    "week": "Mar 23",
+                    "conversion_rate": 20.0,
+                    "total_leads": 10,
+                    "clients": 2
+                },
+                {
+                    "week": "Mar 30",
+                    "conversion_rate": 33.3,
+                    "total_leads": 18,
+                    "clients": 6
+                },
+                {
+                    "week": "Apr 06",
+                    "conversion_rate": 23.1,
+                    "total_leads": 13,
+                    "clients": 3
+                },
+                {
+                    "week": "Apr 13",
+                    "conversion_rate": 0.0,
+                    "total_leads": 12,
+                    "clients": 0
+                },
+                {
+                    "week": "Apr 20",
+                    "conversion_rate": 30.0,
+                    "total_leads": 10,
+                    "clients": 3
+                },
+                {
+                    "week": "Apr 27",
+                    "conversion_rate": 8.3,
+                    "total_leads": 12,
+                    "clients": 1
+                },
+                {
+                    "week": "May 04",
+                    "conversion_rate": 0.0,
+                    "total_leads": 7,
+                    "clients": 0
+                }
+            ]
+        },
+        "Logistics": {
+            "kpis": {
+                "clients": 5,
+                "leads": 4,
+                "hqLeads": 1
+            },
+            "leadQualityBar": [
+                {
+                    "quality": "Low Quality Lead",
+                    "count": 0
+                },
+                {
+                    "quality": "High Quality Lead",
+                    "count": 1
+                },
+                {
+                    "quality": "Unknown",
+                    "count": 0
+                },
+                {
+                    "quality": "Mid Quality Lead",
+                    "count": 3
+                }
+            ],
+            "stateBreakdown": [
+                {
+                    "state": "Currently Outside Australia",
+                    "count": 2
+                },
+                {
+                    "state": "New South Wales",
+                    "count": 1
+                },
+                {
+                    "state": "Victoria",
+                    "count": 1
+                }
+            ],
+            "weeklyConversion": [
+                {
+                    "week": "Mar 23",
+                    "conversion_rate": 0.0,
+                    "total_leads": 1,
+                    "clients": 0
+                },
+                {
+                    "week": "Apr 20",
+                    "conversion_rate": 0.0,
+                    "total_leads": 1,
+                    "clients": 0
+                },
+                {
+                    "week": "Apr 27",
+                    "conversion_rate": 50.0,
+                    "total_leads": 2,
+                    "clients": 1
+                }
+            ]
+        },
+        "Manufacturing": {
+            "kpis": {
+                "clients": 2,
+                "leads": 0,
+                "hqLeads": 0
+            },
+            "leadQualityBar": [
+                {
+                    "quality": "Low Quality Lead",
+                    "count": 0
+                },
+                {
+                    "quality": "High Quality Lead",
+                    "count": 0
+                },
+                {
+                    "quality": "Unknown",
+                    "count": 0
+                },
+                {
+                    "quality": "Mid Quality Lead",
+                    "count": 0
+                }
+            ],
+            "stateBreakdown": [],
+            "weeklyConversion": []
+        },
+        "Marketing & Sales": {
+            "kpis": {
+                "clients": 6,
+                "leads": 25,
+                "hqLeads": 8
+            },
+            "leadQualityBar": [
+                {
+                    "quality": "Low Quality Lead",
+                    "count": 10
+                },
+                {
+                    "quality": "High Quality Lead",
+                    "count": 8
+                },
+                {
+                    "quality": "Unknown",
+                    "count": 0
+                },
+                {
+                    "quality": "Mid Quality Lead",
+                    "count": 7
+                }
+            ],
+            "stateBreakdown": [
+                {
+                    "state": "Currently Outside Australia",
+                    "count": 2
+                },
+                {
+                    "state": "New South Wales",
+                    "count": 9
+                },
+                {
+                    "state": "Queensland",
+                    "count": 1
+                },
+                {
+                    "state": "South Australia",
+                    "count": 2
+                },
+                {
+                    "state": "Victoria",
+                    "count": 8
+                },
+                {
+                    "state": "Western Australia",
+                    "count": 3
+                }
+            ],
+            "weeklyConversion": [
+                {
+                    "week": "Mar 16",
+                    "conversion_rate": 20.0,
+                    "total_leads": 5,
+                    "clients": 1
+                },
+                {
+                    "week": "Mar 23",
+                    "conversion_rate": 0.0,
+                    "total_leads": 3,
+                    "clients": 0
+                },
+                {
+                    "week": "Mar 30",
+                    "conversion_rate": 12.5,
+                    "total_leads": 8,
+                    "clients": 1
+                },
+                {
+                    "week": "Apr 06",
+                    "conversion_rate": 25.0,
+                    "total_leads": 4,
+                    "clients": 1
+                },
+                {
+                    "week": "Apr 20",
+                    "conversion_rate": 50.0,
+                    "total_leads": 2,
+                    "clients": 1
+                },
+                {
+                    "week": "Apr 27",
+                    "conversion_rate": 66.7,
+                    "total_leads": 3,
+                    "clients": 2
+                }
+            ]
+        },
+        "Medical": {
+            "kpis": {
+                "clients": 3,
+                "leads": 7,
+                "hqLeads": 0
+            },
+            "leadQualityBar": [
+                {
+                    "quality": "Low Quality Lead",
+                    "count": 4
+                },
+                {
+                    "quality": "High Quality Lead",
+                    "count": 0
+                },
+                {
+                    "quality": "Unknown",
+                    "count": 0
+                },
+                {
+                    "quality": "Mid Quality Lead",
+                    "count": 3
+                }
+            ],
+            "stateBreakdown": [
+                {
+                    "state": "ACT",
+                    "count": 1
+                },
+                {
+                    "state": "Currently Outside Australia",
+                    "count": 1
+                },
+                {
+                    "state": "New South Wales",
+                    "count": 4
+                },
+                {
+                    "state": "Western Australia",
+                    "count": 1
+                }
+            ],
+            "weeklyConversion": [
+                {
+                    "week": "Mar 16",
+                    "conversion_rate": 0.0,
+                    "total_leads": 2,
+                    "clients": 0
+                },
+                {
+                    "week": "Apr 06",
+                    "conversion_rate": 0.0,
+                    "total_leads": 3,
+                    "clients": 0
+                },
+                {
+                    "week": "Apr 13",
+                    "conversion_rate": 0.0,
+                    "total_leads": 1,
+                    "clients": 0
+                },
+                {
+                    "week": "Apr 27",
+                    "conversion_rate": 0.0,
+                    "total_leads": 1,
+                    "clients": 0
+                }
+            ]
+        },
+        "Operations": {
+            "kpis": {
+                "clients": 1,
+                "leads": 5,
+                "hqLeads": 3
+            },
+            "leadQualityBar": [
+                {
+                    "quality": "Low Quality Lead",
+                    "count": 1
+                },
+                {
+                    "quality": "High Quality Lead",
+                    "count": 3
+                },
+                {
+                    "quality": "Unknown",
+                    "count": 0
+                },
+                {
+                    "quality": "Mid Quality Lead",
+                    "count": 1
+                }
+            ],
+            "stateBreakdown": [
+                {
+                    "state": "ACT",
+                    "count": 2
+                },
+                {
+                    "state": "New South Wales",
+                    "count": 1
+                },
+                {
+                    "state": "Victoria",
+                    "count": 2
+                }
+            ],
+            "weeklyConversion": [
+                {
+                    "week": "Mar 16",
+                    "conversion_rate": 0.0,
+                    "total_leads": 1,
+                    "clients": 0
+                },
+                {
+                    "week": "Mar 23",
+                    "conversion_rate": 0.0,
+                    "total_leads": 1,
+                    "clients": 0
+                },
+                {
+                    "week": "Mar 30",
+                    "conversion_rate": 0.0,
+                    "total_leads": 1,
+                    "clients": 0
+                },
+                {
+                    "week": "Apr 20",
+                    "conversion_rate": 50.0,
+                    "total_leads": 2,
+                    "clients": 1
+                }
+            ]
+        },
+        "Other": {
+            "kpis": {
+                "clients": 16,
+                "leads": 4,
+                "hqLeads": 0
+            },
+            "leadQualityBar": [
+                {
+                    "quality": "Low Quality Lead",
+                    "count": 2
+                },
+                {
+                    "quality": "High Quality Lead",
+                    "count": 0
+                },
+                {
+                    "quality": "Unknown",
+                    "count": 0
+                },
+                {
+                    "quality": "Mid Quality Lead",
+                    "count": 2
+                }
+            ],
+            "stateBreakdown": [
+                {
+                    "state": "Queensland",
+                    "count": 1
+                },
+                {
+                    "state": "Victoria",
+                    "count": 2
+                },
+                {
+                    "state": "Western Australia",
+                    "count": 1
+                }
+            ],
+            "weeklyConversion": [
+                {
+                    "week": "Mar 16",
+                    "conversion_rate": 0.0,
+                    "total_leads": 2,
+                    "clients": 0
+                },
+                {
+                    "week": "Apr 20",
+                    "conversion_rate": 0.0,
+                    "total_leads": 1,
+                    "clients": 0
+                },
+                {
+                    "week": "May 04",
+                    "conversion_rate": 0.0,
+                    "total_leads": 1,
+                    "clients": 0
+                }
+            ]
+        },
+        "Project Management": {
+            "kpis": {
+                "clients": 1,
+                "leads": 0,
+                "hqLeads": 0
+            },
+            "leadQualityBar": [
+                {
+                    "quality": "Low Quality Lead",
+                    "count": 0
+                },
+                {
+                    "quality": "High Quality Lead",
+                    "count": 0
+                },
+                {
+                    "quality": "Unknown",
+                    "count": 0
+                },
+                {
+                    "quality": "Mid Quality Lead",
+                    "count": 0
+                }
+            ],
+            "stateBreakdown": [],
+            "weeklyConversion": []
+        },
+        "Science & Tech": {
+            "kpis": {
+                "clients": 9,
+                "leads": 2,
+                "hqLeads": 1
+            },
+            "leadQualityBar": [
+                {
+                    "quality": "Low Quality Lead",
+                    "count": 0
+                },
+                {
+                    "quality": "High Quality Lead",
+                    "count": 1
+                },
+                {
+                    "quality": "Unknown",
+                    "count": 0
+                },
+                {
+                    "quality": "Mid Quality Lead",
+                    "count": 1
+                }
+            ],
+            "stateBreakdown": [
+                {
+                    "state": "Victoria",
+                    "count": 1
+                },
+                {
+                    "state": "Western Australia",
+                    "count": 1
+                }
+            ],
+            "weeklyConversion": [
+                {
+                    "week": "Mar 30",
+                    "conversion_rate": 0.0,
+                    "total_leads": 2,
+                    "clients": 0
+                }
+            ]
+        },
+        "Telecommunication": {
+            "kpis": {
+                "clients": 2,
+                "leads": 0,
+                "hqLeads": 0
+            },
+            "leadQualityBar": [
+                {
+                    "quality": "Low Quality Lead",
+                    "count": 0
+                },
+                {
+                    "quality": "High Quality Lead",
+                    "count": 0
+                },
+                {
+                    "quality": "Unknown",
+                    "count": 0
+                },
+                {
+                    "quality": "Mid Quality Lead",
+                    "count": 0
+                }
+            ],
+            "stateBreakdown": [],
+            "weeklyConversion": []
+        }
+    },
+    "probabilities": [
+        {
+            "industry": "Accounting",
+            "probability": 59.7
+        },
+        {
+            "industry": "Marketing & Sales",
+            "probability": 56.7
+        },
+        {
+            "industry": "Constructions",
+            "probability": 52.0
+        },
+        {
+            "industry": "Operations",
+            "probability": 46.8
+        },
+        {
+            "industry": "IT",
+            "probability": 45.7
+        },
+        {
+            "industry": "Logistics",
+            "probability": 36.5
+        },
+        {
+            "industry": "Science & Tech",
+            "probability": 30.7
+        },
+        {
+            "industry": "Other",
+            "probability": 26.8
+        },
+        {
+            "industry": "Consulting",
+            "probability": 24.4
+        },
+        {
+            "industry": "HR",
+            "probability": 21.2
+        },
+        {
+            "industry": "Medical",
+            "probability": 19.8
+        },
+        {
+            "industry": "Agriculture",
+            "probability": 17.4
+        },
+        {
+            "industry": "F & B",
+            "probability": 7.4
+        }
+    ],
+    "personas": [
+        {
+            "persona": "Persona 1",
+            "targetIndustry": "Constructions",
+            "location": "Australia",
+            "visaStatus": "Temporary Graduate Visa (485)",
+            "conversionRate": 27.5
+        },
+        {
+            "persona": "Persona 2",
+            "targetIndustry": "IT",
+            "location": "Australia",
+            "visaStatus": "Temporary Graduate Visa (485)",
+            "conversionRate": 20.0
+        },
+        {
+            "persona": "Persona 3",
+            "targetIndustry": "Accounting",
+            "location": "Australia",
+            "visaStatus": "Temporary Graduate Visa (485)",
+            "conversionRate": 7.5
+        },
+        {
+            "persona": "Persona 4",
+            "targetIndustry": "Marketing & Sales",
+            "location": "Australia",
+            "visaStatus": "Temporary Graduate Visa (485)",
+            "conversionRate": 5.0
+        },
+        {
+            "persona": "Persona 5",
+            "targetIndustry": "IT",
+            "location": "Australia",
+            "visaStatus": "Temporary Graduate Visa (485)",
+            "conversionRate": 5.0
+        }
+    ],
+    "forecast": [
+        {
+            "date": "May 04",
+            "predictedClients": 7
+        },
+        {
+            "date": "May 11",
+            "predictedClients": 8
+        },
+        {
+            "date": "May 18",
+            "predictedClients": 8
+        },
+        {
+            "date": "May 25",
+            "predictedClients": 9
+        }
+    ]
+}
