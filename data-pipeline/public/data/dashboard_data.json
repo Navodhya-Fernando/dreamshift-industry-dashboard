@@ -1,12 +1,12 @@
 {
-    "last_updated": "2026-05-06 09:23:17",
+    "last_updated": "2026-05-06 09:30:09",
     "totalClients": 230,
     "totalLeads": 238,
-    "totalIndustries": 32,
+    "totalIndustries": 11,
     "overview": {
         "totalClients": 230,
         "totalLeads": 238,
-        "totalIndustries": 32,
+        "totalIndustries": 11,
         "summaryTable": [
             {
                 "Industry": "IT",
@@ -16,157 +16,52 @@
             {
                 "Industry": "Civil Engineering & Construction",
                 "Leads": 63,
-                "Clients": 0
+                "Clients": 38
             },
             {
                 "Industry": "Sales & Marketing",
                 "Leads": 25,
-                "Clients": 0
+                "Clients": 9
             },
             {
                 "Industry": "Other",
                 "Leads": 18,
-                "Clients": 18
+                "Clients": 28
             },
             {
                 "Industry": "Accounting & Finance",
                 "Leads": 16,
-                "Clients": 0
+                "Clients": 13
             },
             {
                 "Industry": "HR & Admin",
                 "Leads": 8,
-                "Clients": 0
+                "Clients": 7
             },
             {
                 "Industry": "Healthcare",
                 "Leads": 7,
-                "Clients": 2
+                "Clients": 5
             },
             {
                 "Industry": "Logistics / Supply Chain & Procurement",
                 "Leads": 4,
-                "Clients": 0
+                "Clients": 10
             },
             {
                 "Industry": "Science & Tech",
                 "Leads": 2,
-                "Clients": 10
-            },
-            {
-                "Industry": "Civil Engineering",
-                "Leads": 0,
-                "Clients": 7
-            },
-            {
-                "Industry": "Constructions",
-                "Leads": 0,
-                "Clients": 30
-            },
-            {
-                "Industry": "Architecture",
-                "Leads": 0,
-                "Clients": 1
-            },
-            {
-                "Industry": "Agriculture",
-                "Leads": 0,
-                "Clients": 1
-            },
-            {
-                "Industry": "Apparel/Garment Manufacturing ",
-                "Leads": 0,
-                "Clients": 1
-            },
-            {
-                "Industry": "Administration",
-                "Leads": 0,
-                "Clients": 2
-            },
-            {
-                "Industry": "Accounting",
-                "Leads": 0,
                 "Clients": 11
             },
             {
-                "Industry": "Finance",
-                "Leads": 0,
-                "Clients": 2
-            },
-            {
-                "Industry": "HR",
-                "Leads": 0,
-                "Clients": 5
-            },
-            {
-                "Industry": "Education",
-                "Leads": 0,
-                "Clients": 1
-            },
-            {
-                "Industry": "Electrical Engineering",
+                "Industry": "Electrical Engineering & Electronic Engineering",
                 "Leads": 0,
                 "Clients": 4
-            },
-            {
-                "Industry": "Consulting",
-                "Leads": 0,
-                "Clients": 1
-            },
-            {
-                "Industry": "Marketing",
-                "Leads": 0,
-                "Clients": 1
-            },
-            {
-                "Industry": "Logistics",
-                "Leads": 0,
-                "Clients": 10
-            },
-            {
-                "Industry": "Manufacturing",
-                "Leads": 0,
-                "Clients": 2
-            },
-            {
-                "Industry": "Medical",
-                "Leads": 0,
-                "Clients": 3
             },
             {
                 "Industry": "Mechanical Engineering",
                 "Leads": 0,
                 "Clients": 7
-            },
-            {
-                "Industry": "Marketing & Sales",
-                "Leads": 0,
-                "Clients": 7
-            },
-            {
-                "Industry": "Operations",
-                "Leads": 0,
-                "Clients": 1
-            },
-            {
-                "Industry": "Sales",
-                "Leads": 0,
-                "Clients": 1
-            },
-            {
-                "Industry": "Project Management",
-                "Leads": 0,
-                "Clients": 1
-            },
-            {
-                "Industry": "Science",
-                "Leads": 0,
-                "Clients": 1
-            },
-            {
-                "Industry": "Telecommunication",
-                "Leads": 0,
-                "Clients": 2
             }
         ],
         "qualityHeatmap": [
@@ -262,157 +157,52 @@
         {
             "Industry": "Civil Engineering & Construction",
             "Leads": 63,
-            "Clients": 0
+            "Clients": 38
         },
         {
             "Industry": "Sales & Marketing",
             "Leads": 25,
-            "Clients": 0
+            "Clients": 9
         },
         {
             "Industry": "Other",
             "Leads": 18,
-            "Clients": 18
+            "Clients": 28
         },
         {
             "Industry": "Accounting & Finance",
             "Leads": 16,
-            "Clients": 0
+            "Clients": 13
         },
         {
             "Industry": "HR & Admin",
             "Leads": 8,
-            "Clients": 0
+            "Clients": 7
         },
         {
             "Industry": "Healthcare",
             "Leads": 7,
-            "Clients": 2
+            "Clients": 5
         },
         {
             "Industry": "Logistics / Supply Chain & Procurement",
             "Leads": 4,
-            "Clients": 0
+            "Clients": 10
         },
         {
             "Industry": "Science & Tech",
             "Leads": 2,
-            "Clients": 10
-        },
-        {
-            "Industry": "Civil Engineering",
-            "Leads": 0,
-            "Clients": 7
-        },
-        {
-            "Industry": "Constructions",
-            "Leads": 0,
-            "Clients": 30
-        },
-        {
-            "Industry": "Architecture",
-            "Leads": 0,
-            "Clients": 1
-        },
-        {
-            "Industry": "Agriculture",
-            "Leads": 0,
-            "Clients": 1
-        },
-        {
-            "Industry": "Apparel/Garment Manufacturing ",
-            "Leads": 0,
-            "Clients": 1
-        },
-        {
-            "Industry": "Administration",
-            "Leads": 0,
-            "Clients": 2
-        },
-        {
-            "Industry": "Accounting",
-            "Leads": 0,
             "Clients": 11
         },
         {
-            "Industry": "Finance",
-            "Leads": 0,
-            "Clients": 2
-        },
-        {
-            "Industry": "HR",
-            "Leads": 0,
-            "Clients": 5
-        },
-        {
-            "Industry": "Education",
-            "Leads": 0,
-            "Clients": 1
-        },
-        {
-            "Industry": "Electrical Engineering",
+            "Industry": "Electrical Engineering & Electronic Engineering",
             "Leads": 0,
             "Clients": 4
-        },
-        {
-            "Industry": "Consulting",
-            "Leads": 0,
-            "Clients": 1
-        },
-        {
-            "Industry": "Marketing",
-            "Leads": 0,
-            "Clients": 1
-        },
-        {
-            "Industry": "Logistics",
-            "Leads": 0,
-            "Clients": 10
-        },
-        {
-            "Industry": "Manufacturing",
-            "Leads": 0,
-            "Clients": 2
-        },
-        {
-            "Industry": "Medical",
-            "Leads": 0,
-            "Clients": 3
         },
         {
             "Industry": "Mechanical Engineering",
             "Leads": 0,
             "Clients": 7
-        },
-        {
-            "Industry": "Marketing & Sales",
-            "Leads": 0,
-            "Clients": 7
-        },
-        {
-            "Industry": "Operations",
-            "Leads": 0,
-            "Clients": 1
-        },
-        {
-            "Industry": "Sales",
-            "Leads": 0,
-            "Clients": 1
-        },
-        {
-            "Industry": "Project Management",
-            "Leads": 0,
-            "Clients": 1
-        },
-        {
-            "Industry": "Science",
-            "Leads": 0,
-            "Clients": 1
-        },
-        {
-            "Industry": "Telecommunication",
-            "Leads": 0,
-            "Clients": 2
         }
     ],
     "qualityHeatmap": [
@@ -1049,36 +839,9 @@
         }
     ],
     "industrySpecific": {
-        "Accounting": {
-            "kpis": {
-                "clients": 11,
-                "leads": 0,
-                "hqLeads": 0
-            },
-            "leadQualityBar": [
-                {
-                    "quality": "Low Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "High Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "Unknown",
-                    "count": 0
-                },
-                {
-                    "quality": "Mid Quality Lead",
-                    "count": 0
-                }
-            ],
-            "stateBreakdown": [],
-            "weeklyConversion": []
-        },
         "Accounting & Finance": {
             "kpis": {
-                "clients": 0,
+                "clients": 13,
                 "leads": 16,
                 "hqLeads": 5
             },
@@ -1163,144 +926,9 @@
                 }
             ]
         },
-        "Administration": {
-            "kpis": {
-                "clients": 2,
-                "leads": 0,
-                "hqLeads": 0
-            },
-            "leadQualityBar": [
-                {
-                    "quality": "Low Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "High Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "Unknown",
-                    "count": 0
-                },
-                {
-                    "quality": "Mid Quality Lead",
-                    "count": 0
-                }
-            ],
-            "stateBreakdown": [],
-            "weeklyConversion": []
-        },
-        "Agriculture": {
-            "kpis": {
-                "clients": 1,
-                "leads": 0,
-                "hqLeads": 0
-            },
-            "leadQualityBar": [
-                {
-                    "quality": "Low Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "High Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "Unknown",
-                    "count": 0
-                },
-                {
-                    "quality": "Mid Quality Lead",
-                    "count": 0
-                }
-            ],
-            "stateBreakdown": [],
-            "weeklyConversion": []
-        },
-        "Apparel/Garment Manufacturing ": {
-            "kpis": {
-                "clients": 1,
-                "leads": 0,
-                "hqLeads": 0
-            },
-            "leadQualityBar": [
-                {
-                    "quality": "Low Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "High Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "Unknown",
-                    "count": 0
-                },
-                {
-                    "quality": "Mid Quality Lead",
-                    "count": 0
-                }
-            ],
-            "stateBreakdown": [],
-            "weeklyConversion": []
-        },
-        "Architecture": {
-            "kpis": {
-                "clients": 1,
-                "leads": 0,
-                "hqLeads": 0
-            },
-            "leadQualityBar": [
-                {
-                    "quality": "Low Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "High Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "Unknown",
-                    "count": 0
-                },
-                {
-                    "quality": "Mid Quality Lead",
-                    "count": 0
-                }
-            ],
-            "stateBreakdown": [],
-            "weeklyConversion": []
-        },
-        "Civil Engineering": {
-            "kpis": {
-                "clients": 7,
-                "leads": 0,
-                "hqLeads": 0
-            },
-            "leadQualityBar": [
-                {
-                    "quality": "Low Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "High Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "Unknown",
-                    "count": 0
-                },
-                {
-                    "quality": "Mid Quality Lead",
-                    "count": 0
-                }
-            ],
-            "stateBreakdown": [],
-            "weeklyConversion": []
-        },
         "Civil Engineering & Construction": {
             "kpis": {
-                "clients": 0,
+                "clients": 38,
                 "leads": 63,
                 "hqLeads": 36
             },
@@ -1407,88 +1035,7 @@
                 }
             ]
         },
-        "Constructions": {
-            "kpis": {
-                "clients": 30,
-                "leads": 0,
-                "hqLeads": 0
-            },
-            "leadQualityBar": [
-                {
-                    "quality": "Low Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "High Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "Unknown",
-                    "count": 0
-                },
-                {
-                    "quality": "Mid Quality Lead",
-                    "count": 0
-                }
-            ],
-            "stateBreakdown": [],
-            "weeklyConversion": []
-        },
-        "Consulting": {
-            "kpis": {
-                "clients": 1,
-                "leads": 0,
-                "hqLeads": 0
-            },
-            "leadQualityBar": [
-                {
-                    "quality": "Low Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "High Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "Unknown",
-                    "count": 0
-                },
-                {
-                    "quality": "Mid Quality Lead",
-                    "count": 0
-                }
-            ],
-            "stateBreakdown": [],
-            "weeklyConversion": []
-        },
-        "Education": {
-            "kpis": {
-                "clients": 1,
-                "leads": 0,
-                "hqLeads": 0
-            },
-            "leadQualityBar": [
-                {
-                    "quality": "Low Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "High Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "Unknown",
-                    "count": 0
-                },
-                {
-                    "quality": "Mid Quality Lead",
-                    "count": 0
-                }
-            ],
-            "stateBreakdown": [],
-            "weeklyConversion": []
-        },
-        "Electrical Engineering": {
+        "Electrical Engineering & Electronic Engineering": {
             "kpis": {
                 "clients": 4,
                 "leads": 0,
@@ -1515,63 +1062,9 @@
             "stateBreakdown": [],
             "weeklyConversion": []
         },
-        "Finance": {
-            "kpis": {
-                "clients": 2,
-                "leads": 0,
-                "hqLeads": 0
-            },
-            "leadQualityBar": [
-                {
-                    "quality": "Low Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "High Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "Unknown",
-                    "count": 0
-                },
-                {
-                    "quality": "Mid Quality Lead",
-                    "count": 0
-                }
-            ],
-            "stateBreakdown": [],
-            "weeklyConversion": []
-        },
-        "HR": {
-            "kpis": {
-                "clients": 5,
-                "leads": 0,
-                "hqLeads": 0
-            },
-            "leadQualityBar": [
-                {
-                    "quality": "Low Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "High Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "Unknown",
-                    "count": 0
-                },
-                {
-                    "quality": "Mid Quality Lead",
-                    "count": 0
-                }
-            ],
-            "stateBreakdown": [],
-            "weeklyConversion": []
-        },
         "HR & Admin": {
             "kpis": {
-                "clients": 0,
+                "clients": 7,
                 "leads": 8,
                 "hqLeads": 1
             },
@@ -1658,7 +1151,7 @@
         },
         "Healthcare": {
             "kpis": {
-                "clients": 2,
+                "clients": 5,
                 "leads": 7,
                 "hqLeads": 0
             },
@@ -1838,36 +1331,9 @@
                 }
             ]
         },
-        "Logistics": {
-            "kpis": {
-                "clients": 10,
-                "leads": 0,
-                "hqLeads": 0
-            },
-            "leadQualityBar": [
-                {
-                    "quality": "Low Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "High Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "Unknown",
-                    "count": 0
-                },
-                {
-                    "quality": "Mid Quality Lead",
-                    "count": 0
-                }
-            ],
-            "stateBreakdown": [],
-            "weeklyConversion": []
-        },
         "Logistics / Supply Chain & Procurement": {
             "kpis": {
-                "clients": 0,
+                "clients": 10,
                 "leads": 4,
                 "hqLeads": 1
             },
@@ -1924,87 +1390,6 @@
                 }
             ]
         },
-        "Manufacturing": {
-            "kpis": {
-                "clients": 2,
-                "leads": 0,
-                "hqLeads": 0
-            },
-            "leadQualityBar": [
-                {
-                    "quality": "Low Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "High Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "Unknown",
-                    "count": 0
-                },
-                {
-                    "quality": "Mid Quality Lead",
-                    "count": 0
-                }
-            ],
-            "stateBreakdown": [],
-            "weeklyConversion": []
-        },
-        "Marketing": {
-            "kpis": {
-                "clients": 1,
-                "leads": 0,
-                "hqLeads": 0
-            },
-            "leadQualityBar": [
-                {
-                    "quality": "Low Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "High Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "Unknown",
-                    "count": 0
-                },
-                {
-                    "quality": "Mid Quality Lead",
-                    "count": 0
-                }
-            ],
-            "stateBreakdown": [],
-            "weeklyConversion": []
-        },
-        "Marketing & Sales": {
-            "kpis": {
-                "clients": 7,
-                "leads": 0,
-                "hqLeads": 0
-            },
-            "leadQualityBar": [
-                {
-                    "quality": "Low Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "High Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "Unknown",
-                    "count": 0
-                },
-                {
-                    "quality": "Mid Quality Lead",
-                    "count": 0
-                }
-            ],
-            "stateBreakdown": [],
-            "weeklyConversion": []
-        },
         "Mechanical Engineering": {
             "kpis": {
                 "clients": 7,
@@ -2032,63 +1417,9 @@
             "stateBreakdown": [],
             "weeklyConversion": []
         },
-        "Medical": {
-            "kpis": {
-                "clients": 3,
-                "leads": 0,
-                "hqLeads": 0
-            },
-            "leadQualityBar": [
-                {
-                    "quality": "Low Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "High Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "Unknown",
-                    "count": 0
-                },
-                {
-                    "quality": "Mid Quality Lead",
-                    "count": 0
-                }
-            ],
-            "stateBreakdown": [],
-            "weeklyConversion": []
-        },
-        "Operations": {
-            "kpis": {
-                "clients": 1,
-                "leads": 0,
-                "hqLeads": 0
-            },
-            "leadQualityBar": [
-                {
-                    "quality": "Low Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "High Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "Unknown",
-                    "count": 0
-                },
-                {
-                    "quality": "Mid Quality Lead",
-                    "count": 0
-                }
-            ],
-            "stateBreakdown": [],
-            "weeklyConversion": []
-        },
         "Other": {
             "kpis": {
-                "clients": 18,
+                "clients": 28,
                 "leads": 18,
                 "hqLeads": 5
             },
@@ -2195,63 +1526,9 @@
                 }
             ]
         },
-        "Project Management": {
-            "kpis": {
-                "clients": 1,
-                "leads": 0,
-                "hqLeads": 0
-            },
-            "leadQualityBar": [
-                {
-                    "quality": "Low Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "High Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "Unknown",
-                    "count": 0
-                },
-                {
-                    "quality": "Mid Quality Lead",
-                    "count": 0
-                }
-            ],
-            "stateBreakdown": [],
-            "weeklyConversion": []
-        },
-        "Sales": {
-            "kpis": {
-                "clients": 1,
-                "leads": 0,
-                "hqLeads": 0
-            },
-            "leadQualityBar": [
-                {
-                    "quality": "Low Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "High Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "Unknown",
-                    "count": 0
-                },
-                {
-                    "quality": "Mid Quality Lead",
-                    "count": 0
-                }
-            ],
-            "stateBreakdown": [],
-            "weeklyConversion": []
-        },
         "Sales & Marketing": {
             "kpis": {
-                "clients": 0,
+                "clients": 9,
                 "leads": 25,
                 "hqLeads": 8
             },
@@ -2338,36 +1615,9 @@
                 }
             ]
         },
-        "Science": {
-            "kpis": {
-                "clients": 1,
-                "leads": 0,
-                "hqLeads": 0
-            },
-            "leadQualityBar": [
-                {
-                    "quality": "Low Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "High Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "Unknown",
-                    "count": 0
-                },
-                {
-                    "quality": "Mid Quality Lead",
-                    "count": 0
-                }
-            ],
-            "stateBreakdown": [],
-            "weeklyConversion": []
-        },
         "Science & Tech": {
             "kpis": {
-                "clients": 10,
+                "clients": 11,
                 "leads": 2,
                 "hqLeads": 1
             },
@@ -2407,33 +1657,6 @@
                     "clients": 0
                 }
             ]
-        },
-        "Telecommunication": {
-            "kpis": {
-                "clients": 2,
-                "leads": 0,
-                "hqLeads": 0
-            },
-            "leadQualityBar": [
-                {
-                    "quality": "Low Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "High Quality Lead",
-                    "count": 0
-                },
-                {
-                    "quality": "Unknown",
-                    "count": 0
-                },
-                {
-                    "quality": "Mid Quality Lead",
-                    "count": 0
-                }
-            ],
-            "stateBreakdown": [],
-            "weeklyConversion": []
         }
     },
     "probabilities": [
